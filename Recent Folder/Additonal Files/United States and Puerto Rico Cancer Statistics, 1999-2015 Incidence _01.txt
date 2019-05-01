@@ -1,0 +1,1067 @@
+"Notes"	"States"	"States Code"	"Age Groups"	"Age Groups Code"	"Cancer Sites"	"Cancer Sites Code"	"Race"	"Race Code"	Count	Population	Crude Rate
+	"Alabama"	"01"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	20	89301	22.4
+	"Alabama"	"01"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	47	252495	18.6
+	"Alabama"	"01"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	44	81697	53.9
+	"Alabama"	"01"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	85	236934	35.9
+	"Alabama"	"01"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	22	229571	9.6
+	"Alabama"	"01"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	62	66403	93.4
+	"Alabama"	"01"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	169	229571	73.6
+	"Alabama"	"01"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	19	184749	10.3
+	"Alabama"	"01"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	81	43644	185.6
+	"Alabama"	"01"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	290	184749	157.0
+	"Alabama"	"01"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	30	155700	19.3
+	"Alabama"	"01"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	66	36249	182.1
+	"Alabama"	"01"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	388	155700	249.2
+	"Alabama"	"01"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	26	136006	19.1
+	"Alabama"	"01"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	105	31993	328.2
+	"Alabama"	"01"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	540	136006	397.0
+	"Alabama"	"01"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	28	120689	23.2
+	"Alabama"	"01"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	104	27413	379.4
+	"Alabama"	"01"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	587	120689	486.4
+	"Alabama"	"01"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	17	96364	17.6
+	"Alabama"	"01"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	88	21868	402.4
+	"Alabama"	"01"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	438	96364	454.5
+	"Alabama"	"01"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	44	14500	303.4
+	"Alabama"	"01"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	258	65143	396.1
+	"Alabama"	"01"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	35	14408	242.9
+	"Alabama"	"01"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	151	52322	288.6
+	"Alaska"	"02"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	21	36439	57.6
+	"Alaska"	"02"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	25	23328	107.2
+	"Alaska"	"02"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	35	14471	241.9
+	"Alaska"	"02"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	29	9751	297.4
+	"Alaska"	"02"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	38	7767	489.2
+	"Alaska"	"02"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	21	5556	378.0
+	"Arizona"	"04"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	19	342004	5.6
+	"Arizona"	"04"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	35	344783	10.2
+	"Arizona"	"04"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	65	310905	20.9
+	"Arizona"	"04"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	155	289965	53.5
+	"Arizona"	"04"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	28	231960	12.1
+	"Arizona"	"04"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	262	231960	113.0
+	"Arizona"	"04"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	28	197538	14.2
+	"Arizona"	"04"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	370	197538	187.3
+	"Arizona"	"04"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	34	179655	18.9
+	"Arizona"	"04"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	481	179655	267.7
+	"Arizona"	"04"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	39	168262	23.2
+	"Arizona"	"04"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	608	168262	361.3
+	"Arizona"	"04"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	24	141030	17.0
+	"Arizona"	"04"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	605	141030	429.0
+	"Arizona"	"04"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	382	92871	411.3
+	"Arizona"	"04"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	191	68036	280.7
+	"Arkansas"	"05"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	30	165091	18.2
+	"Arkansas"	"05"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	67	155394	43.1
+	"Arkansas"	"05"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	28	22007	127.2
+	"Arkansas"	"05"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	128	151361	84.6
+	"Arkansas"	"05"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	17	125831	13.5
+	"Arkansas"	"05"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	29	14508	199.9
+	"Arkansas"	"05"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	236	125831	187.6
+	"Arkansas"	"05"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	28	11744	238.4
+	"Arkansas"	"05"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	305	107497	283.7
+	"Arkansas"	"05"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	26	10023	259.4
+	"Arkansas"	"05"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	386	94974	406.4
+	"Arkansas"	"05"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	28	8712	321.4
+	"Arkansas"	"05"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	392	82902	472.8
+	"Arkansas"	"05"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	21	68552	30.6
+	"Arkansas"	"05"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	25	7362	339.6
+	"Arkansas"	"05"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	368	68552	536.8
+	"Arkansas"	"05"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	187	48118	388.6
+	"Arkansas"	"05"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	106	40683	260.6
+	"California"	"06"	"30-34 years"	"30-34"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	18	2112974	0.9
+	"California"	"06"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	62	2168494	2.9
+	"California"	"06"	"40-44 years"	"40-44"	"Larynx"	"22020"	"White"	"2106-3"	16	2133685	0.7
+	"California"	"06"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	32	352007	9.1
+	"California"	"06"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	33	205442	16.1
+	"California"	"06"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	179	2133685	8.4
+	"California"	"06"	"45-49 years"	"45-49"	"Larynx"	"22020"	"White"	"2106-3"	29	1887289	1.5
+	"California"	"06"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	49	323602	15.1
+	"California"	"06"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	60	168233	35.7
+	"California"	"06"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	347	1887289	18.4
+	"California"	"06"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	83	1679152	4.9
+	"California"	"06"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	91	276907	32.9
+	"California"	"06"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	112	140590	79.7
+	"California"	"06"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	764	1679152	45.5
+	"California"	"06"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	91	1239113	7.3
+	"California"	"06"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	113	186055	60.7
+	"California"	"06"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	167	97771	170.8
+	"California"	"06"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1199	1239113	96.8
+	"California"	"06"	"60-64 years "	"60-64"	"Nose, Nasal Cavity and Middle Ear"	"22010"	"White"	"2106-3"	18	943673	1.9
+	"California"	"06"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	113	943673	12.0
+	"California"	"06"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	145	151820	95.5
+	"California"	"06"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	178	80022	222.4
+	"California"	"06"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1632	943673	172.9
+	"California"	"06"	"65-69 years"	"65-69"	"Nose, Nasal Cavity and Middle Ear"	"22010"	"White"	"2106-3"	16	792325	2.0
+	"California"	"06"	"65-69 years"	"65-69"	"Larynx"	"22020"	"Black or African American"	"2054-5"	18	64181	28.0
+	"California"	"06"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	133	792325	16.8
+	"California"	"06"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	217	128306	169.1
+	"California"	"06"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	212	64181	330.3
+	"California"	"06"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	2198	792325	277.4
+	"California"	"06"	"70-74 years"	"70-74"	"Nose, Nasal Cavity and Middle Ear"	"22010"	"White"	"2106-3"	16	740293	2.2
+	"California"	"06"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	121	740293	16.3
+	"California"	"06"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	234	108393	215.9
+	"California"	"06"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	193	48880	394.8
+	"California"	"06"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	2648	740293	357.7
+	"California"	"06"	"75-79 years"	"75-79"	"Nose, Nasal Cavity and Middle Ear"	"22010"	"White"	"2106-3"	25	660665	3.8
+	"California"	"06"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	108	660665	16.3
+	"California"	"06"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	236	81781	288.6
+	"California"	"06"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	175	38323	456.6
+	"California"	"06"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	2732	660665	413.5
+	"California"	"06"	"80-84 years"	"80-84"	"Nose, Nasal Cavity and Middle Ear"	"22010"	"White"	"2106-3"	22	456740	4.8
+	"California"	"06"	"80-84 years"	"80-84"	"Larynx"	"22020"	"White"	"2106-3"	65	456740	14.2
+	"California"	"06"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	149	47533	313.5
+	"California"	"06"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	120	24194	496.0
+	"California"	"06"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1815	456740	397.4
+	"California"	"06"	"85+ years"	"85+"	"Larynx"	"22020"	"White"	"2106-3"	34	382359	8.9
+	"California"	"06"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	106	33013	321.1
+	"California"	"06"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	53	19832	267.2
+	"California"	"06"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1173	382359	306.8
+	"Colorado"	"08"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	24	348650	6.9
+	"Colorado"	"08"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	50	321768	15.5
+	"Colorado"	"08"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	97	283353	34.2
+	"Colorado"	"08"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	20	193502	10.3
+	"Colorado"	"08"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	167	193502	86.3
+	"Colorado"	"08"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	228	142644	159.8
+	"Colorado"	"08"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	279	115368	241.8
+	"Colorado"	"08"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	18	100976	17.8
+	"Colorado"	"08"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	351	100976	347.6
+	"Colorado"	"08"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	355	83479	425.3
+	"Colorado"	"08"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	208	56876	365.7
+	"Colorado"	"08"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	129	48047	268.5
+	"Connecticut"	"09"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	33	259721	12.7
+	"Connecticut"	"09"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	66	233813	28.2
+	"Connecticut"	"09"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	17	18586	91.5
+	"Connecticut"	"09"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	124	213387	58.1
+	"Connecticut"	"09"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	16	166503	9.6
+	"Connecticut"	"09"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	20	13908	143.8
+	"Connecticut"	"09"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	207	166503	124.3
+	"Connecticut"	"09"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	24	10742	223.4
+	"Connecticut"	"09"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	251	121477	206.6
+	"Connecticut"	"09"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	25	105076	23.8
+	"Connecticut"	"09"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	20	8332	240.0
+	"Connecticut"	"09"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	334	105076	317.9
+	"Connecticut"	"09"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	18	105429	17.1
+	"Connecticut"	"09"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	16	6234	256.7
+	"Connecticut"	"09"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	445	105429	422.1
+	"Connecticut"	"09"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	18	94932	19.0
+	"Connecticut"	"09"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	21	4726	444.4
+	"Connecticut"	"09"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	439	94932	462.4
+	"Connecticut"	"09"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	283	72557	390.0
+	"Connecticut"	"09"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	182	63675	285.8
+	"Delaware"	"10"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	27	42281	63.9
+	"Delaware"	"10"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	47	33628	139.8
+	"Delaware"	"10"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	22	4754	462.8
+	"Delaware"	"10"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	63	27912	225.7
+	"Delaware"	"10"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	86	25395	338.6
+	"Delaware"	"10"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	16	3007	532.1
+	"Delaware"	"10"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	96	23562	407.4
+	"Delaware"	"10"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	103	18955	543.4
+	"Delaware"	"10"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	45	12768	352.4
+	"Delaware"	"10"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	31	9615	322.4
+	"District of Columbia"	"11"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	21	23191	90.6
+	"District of Columbia"	"11"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	23	16867	136.4
+	"District of Columbia"	"11"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	45	14739	305.3
+	"District of Columbia"	"11"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	17	7258	234.2
+	"District of Columbia"	"11"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	43	12851	334.6
+	"District of Columbia"	"11"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	53	12089	438.4
+	"District of Columbia"	"11"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	16	4376	365.6
+	"District of Columbia"	"11"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	47	10398	452.0
+	"District of Columbia"	"11"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	28	6930	404.0
+	"District of Columbia"	"11"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	17	5482	310.1
+	"Florida"	"12"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	65	1015978	6.4
+	"Florida"	"12"	"40-44 years"	"40-44"	"Larynx"	"22020"	"White"	"2106-3"	22	1037250	2.1
+	"Florida"	"12"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	32	195939	16.3
+	"Florida"	"12"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	179	1037250	17.3
+	"Florida"	"12"	"45-49 years"	"45-49"	"Larynx"	"22020"	"White"	"2106-3"	56	938883	6.0
+	"Florida"	"12"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	66	164087	40.2
+	"Florida"	"12"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	369	938883	39.3
+	"Florida"	"12"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	67	895549	7.5
+	"Florida"	"12"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	96	130017	73.8
+	"Florida"	"12"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	684	895549	76.4
+	"Florida"	"12"	"55-59 years"	"55-59"	"Larynx"	"22020"	"Black or African American"	"2054-5"	16	91681	17.5
+	"Florida"	"12"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	131	751766	17.4
+	"Florida"	"12"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	113	91681	123.3
+	"Florida"	"12"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1173	751766	156.0
+	"Florida"	"12"	"60-64 years "	"60-64"	"Larynx"	"22020"	"Black or African American"	"2054-5"	18	75846	23.7
+	"Florida"	"12"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	148	676552	21.9
+	"Florida"	"12"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	176	75846	232.0
+	"Florida"	"12"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1636	676552	241.8
+	"Florida"	"12"	"65-69 years"	"65-69"	"Nose, Nasal Cavity and Middle Ear"	"22010"	"White"	"2106-3"	16	657048	2.4
+	"Florida"	"12"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	153	657048	23.3
+	"Florida"	"12"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	20	8517	234.8
+	"Florida"	"12"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	180	62592	287.6
+	"Florida"	"12"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	2204	657048	335.4
+	"Florida"	"12"	"70-74 years"	"70-74"	"Nose, Nasal Cavity and Middle Ear"	"22010"	"White"	"2106-3"	26	670587	3.9
+	"Florida"	"12"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	173	670587	25.8
+	"Florida"	"12"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	165	48356	341.2
+	"Florida"	"12"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	2806	670587	418.4
+	"Florida"	"12"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Other Races and Unknown combined"	"2131-1"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"75-79 years"	"75-79"	"Nose, Nasal Cavity and Middle Ear"	"22010"	"White"	"2106-3"	32	580319	5.5
+	"Florida"	"12"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	136	580319	23.4
+	"Florida"	"12"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	133	34486	385.7
+	"Florida"	"12"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	2624	580319	452.2
+	"Florida"	"12"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Other Races and Unknown combined"	"2131-1"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"80-84 years"	"80-84"	"Larynx"	"22020"	"White"	"2106-3"	82	399742	20.5
+	"Florida"	"12"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	74	21519	343.9
+	"Florida"	"12"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1707	399742	427.0
+	"Florida"	"12"	"85+ years"	"85+"	"Larynx"	"22020"	"White"	"2106-3"	41	315449	13.0
+	"Florida"	"12"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	45	18096	248.7
+	"Florida"	"12"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1094	315449	346.8
+	"Georgia"	"13"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	21	465731	4.5
+	"Georgia"	"13"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	44	194802	22.6
+	"Georgia"	"13"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	69	459782	15.0
+	"Georgia"	"13"	"45-49 years"	"45-49"	"Larynx"	"22020"	"White"	"2106-3"	17	413586	4.1
+	"Georgia"	"13"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	69	164357	42.0
+	"Georgia"	"13"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	150	413586	36.3
+	"Georgia"	"13"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	29	394911	7.3
+	"Georgia"	"13"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	112	132258	84.7
+	"Georgia"	"13"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	276	394911	69.9
+	"Georgia"	"13"	"55-59 years"	"55-59"	"Larynx"	"22020"	"Black or African American"	"2054-5"	16	84627	18.9
+	"Georgia"	"13"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	50	299675	16.7
+	"Georgia"	"13"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	159	84627	187.9
+	"Georgia"	"13"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	434	299675	144.8
+	"Georgia"	"13"	"60-64 years "	"60-64"	"Larynx"	"22020"	"Black or African American"	"2054-5"	20	63747	31.4
+	"Georgia"	"13"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	44	228834	19.2
+	"Georgia"	"13"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	143	63747	224.3
+	"Georgia"	"13"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	552	228834	241.2
+	"Georgia"	"13"	"65-69 years"	"65-69"	"Larynx"	"22020"	"Black or African American"	"2054-5"	16	50402	31.7
+	"Georgia"	"13"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	52	187872	27.7
+	"Georgia"	"13"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	164	50402	325.4
+	"Georgia"	"13"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	756	187872	402.4
+	"Georgia"	"13"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	33	159147	20.7
+	"Georgia"	"13"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	150	38688	387.7
+	"Georgia"	"13"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	764	159147	480.1
+	"Georgia"	"13"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	16	128470	12.5
+	"Georgia"	"13"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	115	29726	386.9
+	"Georgia"	"13"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	638	128470	496.6
+	"Georgia"	"13"	"80-84 years"	"80-84"	"Larynx"	"22020"	"White"	"2106-3"	20	87257	22.9
+	"Georgia"	"13"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	62	20576	301.3
+	"Georgia"	"13"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	386	87257	442.4
+	"Georgia"	"13"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	52	18627	279.2
+	"Georgia"	"13"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	199	69336	287.0
+	"Hawaii"	"15"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	17	63085	26.9
+	"Hawaii"	"15"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	19	56731	33.5
+	"Hawaii"	"15"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	43	44555	96.5
+	"Hawaii"	"15"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	19	19358	98.2
+	"Hawaii"	"15"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	51	34602	147.4
+	"Hawaii"	"15"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	24	13118	183.0
+	"Hawaii"	"15"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	51	32101	158.9
+	"Hawaii"	"15"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	22	10232	215.0
+	"Hawaii"	"15"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	69	32509	212.2
+	"Hawaii"	"15"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	36	9382	383.7
+	"Hawaii"	"15"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	76	27630	275.1
+	"Hawaii"	"15"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	36	8422	427.5
+	"Hawaii"	"15"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	55	17969	306.1
+	"Hawaii"	"15"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	18	5465	329.4
+	"Hawaii"	"15"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	35	14491	241.5
+	"Idaho"	"16"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	23	92260	24.9
+	"Idaho"	"16"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	32	81553	39.2
+	"Idaho"	"16"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	46	61266	75.1
+	"Idaho"	"16"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	69	48915	141.1
+	"Idaho"	"16"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	102	40485	251.9
+	"Idaho"	"16"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	123	35400	347.5
+	"Idaho"	"16"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	108	30073	359.1
+	"Idaho"	"16"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	70	22159	315.9
+	"Idaho"	"16"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	40	18366	217.8
+	"Illinois"	"17"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	35	782162	4.5
+	"Illinois"	"17"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	45	146713	30.7
+	"Illinois"	"17"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	93	811771	11.5
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Larynx"	"22020"	"White"	"2106-3"	19	732866	2.6
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	59	124473	47.4
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	209	732866	28.5
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Larynx"	"22020"	"Black or African American"	"2054-5"	22	106831	20.6
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	46	658879	7.0
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	88	106831	82.4
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	397	658879	60.3
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Larynx"	"22020"	"Black or African American"	"2054-5"	19	76176	24.9
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	48	492021	9.8
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	140	76176	183.8
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	640	492021	130.1
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Larynx"	"22020"	"Black or African American"	"2054-5"	17	63464	26.8
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	60	390267	15.4
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	173	63464	272.6
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	887	390267	227.3
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Larynx"	"22020"	"Black or African American"	"2054-5"	17	52826	32.2
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	76	330204	23.0
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	203	52826	384.3
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1112	330204	336.8
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Larynx"	"22020"	"Black or African American"	"2054-5"	17	42833	39.7
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	61	318443	19.2
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	175	42833	408.6
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1376	318443	432.1
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	46	278738	16.5
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	162	31911	507.7
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1304	278738	467.8
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Larynx"	"22020"	"White"	"2106-3"	25	201960	12.4
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	93	18867	492.9
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	839	201960	415.4
+	"Illinois"	"17"	"85+ years"	"85+"	"Larynx"	"22020"	"White"	"2106-3"	30	177585	16.9
+	"Illinois"	"17"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	52	15191	342.3
+	"Illinois"	"17"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	578	177585	325.5
+	"Indiana"	"18"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	36	416579	8.6
+	"Indiana"	"18"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	80	440083	18.2
+	"Indiana"	"18"	"45-49 years"	"45-49"	"Larynx"	"22020"	"White"	"2106-3"	20	408329	4.9
+	"Indiana"	"18"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	20	34661	57.7
+	"Indiana"	"18"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	135	408329	33.1
+	"Indiana"	"18"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	19	369345	5.1
+	"Indiana"	"18"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	25	28319	88.3
+	"Indiana"	"18"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	244	369345	66.1
+	"Indiana"	"18"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	38	277449	13.7
+	"Indiana"	"18"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	39	19632	198.7
+	"Indiana"	"18"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	387	277449	139.5
+	"Indiana"	"18"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	46	223819	20.6
+	"Indiana"	"18"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	41	15976	256.6
+	"Indiana"	"18"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	558	223819	249.3
+	"Indiana"	"18"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	27	187858	14.4
+	"Indiana"	"18"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	61	13827	441.2
+	"Indiana"	"18"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	729	187858	388.1
+	"Indiana"	"18"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	44	177097	24.8
+	"Indiana"	"18"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	42	11529	364.3
+	"Indiana"	"18"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	881	177097	497.5
+	"Indiana"	"18"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	27	150826	17.9
+	"Indiana"	"18"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	42	8790	477.8
+	"Indiana"	"18"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	802	150826	531.7
+	"Indiana"	"18"	"80-84 years"	"80-84"	"Larynx"	"22020"	"White"	"2106-3"	16	103707	15.4
+	"Indiana"	"18"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	26	5361	485.0
+	"Indiana"	"18"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	416	103707	401.1
+	"Indiana"	"18"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	262	88535	295.9
+	"Iowa"	"19"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	22	220530	10.0
+	"Iowa"	"19"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	54	209994	25.7
+	"Iowa"	"19"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	104	186914	55.6
+	"Iowa"	"19"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	19	138200	13.7
+	"Iowa"	"19"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	154	138200	111.4
+	"Iowa"	"19"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	17	117749	14.4
+	"Iowa"	"19"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	254	117749	215.7
+	"Iowa"	"19"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	22	104553	21.0
+	"Iowa"	"19"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	348	104553	332.8
+	"Iowa"	"19"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	17	101311	16.8
+	"Iowa"	"19"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	383	101311	378.0
+	"Iowa"	"19"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	387	90136	429.4
+	"Iowa"	"19"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	258	68532	376.5
+	"Iowa"	"19"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	164	65526	250.3
+	"Kansas"	"20"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	24	194728	12.3
+	"Kansas"	"20"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	48	182734	26.3
+	"Kansas"	"20"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	105	159742	65.7
+	"Kansas"	"20"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	120	116634	102.9
+	"Kansas"	"20"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	19	94188	20.2
+	"Kansas"	"20"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	188	94188	199.6
+	"Kansas"	"20"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	16	83931	19.1
+	"Kansas"	"20"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	275	83931	327.7
+	"Kansas"	"20"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	284	80442	353.0
+	"Kansas"	"20"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	294	71673	410.2
+	"Kansas"	"20"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	200	53046	377.0
+	"Kansas"	"20"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	118	50307	234.6
+	"Kentucky"	"21"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	26	285437	9.1
+	"Kentucky"	"21"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	85	295614	28.8
+	"Kentucky"	"21"	"45-49 years"	"45-49"	"Larynx"	"22020"	"White"	"2106-3"	16	276866	5.8
+	"Kentucky"	"21"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	121	276866	43.7
+	"Kentucky"	"21"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	29	258799	11.2
+	"Kentucky"	"21"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	22	16976	129.6
+	"Kentucky"	"21"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	285	258799	110.1
+	"Kentucky"	"21"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	24	196678	12.2
+	"Kentucky"	"21"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	399	196678	202.9
+	"Kentucky"	"21"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	36	162843	22.1
+	"Kentucky"	"21"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	25	8952	279.3
+	"Kentucky"	"21"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	576	162843	353.7
+	"Kentucky"	"21"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	43	136921	31.4
+	"Kentucky"	"21"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	37	7801	474.3
+	"Kentucky"	"21"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	683	136921	498.8
+	"Kentucky"	"21"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	41	121463	33.8
+	"Kentucky"	"21"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	39	6610	590.0
+	"Kentucky"	"21"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	756	121463	622.4
+	"Kentucky"	"21"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	25	99113	25.2
+	"Kentucky"	"21"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	29	5245	552.9
+	"Kentucky"	"21"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	605	99113	610.4
+	"Kentucky"	"21"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	16	3318	482.2
+	"Kentucky"	"21"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	331	65983	501.6
+	"Kentucky"	"21"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	22	3299	666.9
+	"Kentucky"	"21"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	175	55238	316.8
+	"Louisiana"	"22"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	34	107831	31.5
+	"Louisiana"	"22"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	45	234853	19.2
+	"Louisiana"	"22"	"45-49 years"	"45-49"	"Larynx"	"22020"	"Black or African American"	"2054-5"	16	98043	16.3
+	"Louisiana"	"22"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	53	98043	54.1
+	"Louisiana"	"22"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	78	219080	35.6
+	"Louisiana"	"22"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	23	201448	11.4
+	"Louisiana"	"22"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	101	81016	124.7
+	"Louisiana"	"22"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	143	201448	71.0
+	"Louisiana"	"22"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	23	154948	14.8
+	"Louisiana"	"22"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	116	55302	209.8
+	"Louisiana"	"22"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	223	154948	143.9
+	"Louisiana"	"22"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	27	127451	21.2
+	"Louisiana"	"22"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	117	44462	263.1
+	"Louisiana"	"22"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	306	127451	240.1
+	"Louisiana"	"22"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	29	109531	26.5
+	"Louisiana"	"22"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	132	36661	360.1
+	"Louisiana"	"22"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	440	109531	401.7
+	"Louisiana"	"22"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	20	101680	19.7
+	"Louisiana"	"22"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	120	30552	392.8
+	"Louisiana"	"22"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	497	101680	488.8
+	"Louisiana"	"22"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	20	83602	23.9
+	"Louisiana"	"22"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	101	23263	434.2
+	"Louisiana"	"22"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	446	83602	533.5
+	"Louisiana"	"22"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	58	15135	383.2
+	"Louisiana"	"22"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	239	55493	430.7
+	"Louisiana"	"22"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	60	13788	435.2
+	"Louisiana"	"22"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	137	44147	310.3
+	"Maine"	"23"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	17	108164	15.7
+	"Maine"	"23"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	41	102674	39.9
+	"Maine"	"23"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	58	95791	60.5
+	"Maine"	"23"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	113	70562	160.1
+	"Maine"	"23"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	143	55482	257.7
+	"Maine"	"23"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	16	49736	32.2
+	"Maine"	"23"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	189	49736	380.0
+	"Maine"	"23"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	211	45674	462.0
+	"Maine"	"23"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	188	38217	491.9
+	"Maine"	"23"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	128	26561	481.9
+	"Maine"	"23"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	90	23755	378.9
+	"Maryland"	"24"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	16	294287	5.4
+	"Maryland"	"24"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	24	132828	18.1
+	"Maryland"	"24"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	38	306204	12.4
+	"Maryland"	"24"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	42	110598	38.0
+	"Maryland"	"24"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	81	280481	28.9
+	"Maryland"	"24"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	80	97897	81.7
+	"Maryland"	"24"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	131	262645	49.9
+	"Maryland"	"24"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	92	66003	139.4
+	"Maryland"	"24"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	265	200101	132.4
+	"Maryland"	"24"	"60-64 years "	"60-64"	"Larynx"	"22020"	"Black or African American"	"2054-5"	17	50258	33.8
+	"Maryland"	"24"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	17	149257	11.4
+	"Maryland"	"24"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	116	50258	230.8
+	"Maryland"	"24"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	310	149257	207.7
+	"Maryland"	"24"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	23	124104	18.5
+	"Maryland"	"24"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	103	38977	264.3
+	"Maryland"	"24"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	400	124104	322.3
+	"Maryland"	"24"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	24	118284	20.3
+	"Maryland"	"24"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	101	29835	338.5
+	"Maryland"	"24"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	450	118284	380.4
+	"Maryland"	"24"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	27	104189	25.9
+	"Maryland"	"24"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	86	22079	389.5
+	"Maryland"	"24"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	452	104189	433.8
+	"Maryland"	"24"	"80-84 years"	"80-84"	"Larynx"	"22020"	"White"	"2106-3"	19	72142	26.3
+	"Maryland"	"24"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	42	13441	312.5
+	"Maryland"	"24"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	286	72142	396.4
+	"Maryland"	"24"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	38	10671	356.1
+	"Maryland"	"24"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	165	57291	288.0
+	"Massachusetts"	"25"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	21	466466	4.5
+	"Massachusetts"	"25"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	77	474712	16.2
+	"Massachusetts"	"25"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	123	429205	28.7
+	"Massachusetts"	"25"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	22	397826	5.5
+	"Massachusetts"	"25"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	21	22175	94.7
+	"Massachusetts"	"25"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	265	397826	66.6
+	"Massachusetts"	"25"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	32	297446	10.8
+	"Massachusetts"	"25"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	19	15432	123.1
+	"Massachusetts"	"25"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	432	297446	145.2
+	"Massachusetts"	"25"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	38	223247	17.0
+	"Massachusetts"	"25"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	18	11698	153.9
+	"Massachusetts"	"25"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	479	223247	214.6
+	"Massachusetts"	"25"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	27	198637	13.6
+	"Massachusetts"	"25"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	30	9238	324.7
+	"Massachusetts"	"25"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	670	198637	337.3
+	"Massachusetts"	"25"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	37	195779	18.9
+	"Massachusetts"	"25"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	19	7246	262.2
+	"Massachusetts"	"25"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	878	195779	448.5
+	"Massachusetts"	"25"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	30	175540	17.1
+	"Massachusetts"	"25"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	844	175540	480.8
+	"Massachusetts"	"25"	"80-84 years"	"80-84"	"Larynx"	"22020"	"White"	"2106-3"	25	129182	19.4
+	"Massachusetts"	"25"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	558	129182	431.9
+	"Massachusetts"	"25"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	299	114216	261.8
+	"Michigan"	"26"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	31	635213	4.9
+	"Michigan"	"26"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	35	107927	32.4
+	"Michigan"	"26"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	125	685272	18.2
+	"Michigan"	"26"	"45-49 years"	"45-49"	"Larynx"	"22020"	"White"	"2106-3"	21	637160	3.3
+	"Michigan"	"26"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	52	97967	53.1
+	"Michigan"	"26"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	198	637160	31.1
+	"Michigan"	"26"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	38	572282	6.6
+	"Michigan"	"26"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	85	85481	99.4
+	"Michigan"	"26"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	369	572282	64.5
+	"Michigan"	"26"	"55-59 years"	"55-59"	"Larynx"	"22020"	"Black or African American"	"2054-5"	18	57813	31.1
+	"Michigan"	"26"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	28	431248	6.5
+	"Michigan"	"26"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	121	57813	209.3
+	"Michigan"	"26"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	587	431248	136.1
+	"Michigan"	"26"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	51	336774	15.1
+	"Michigan"	"26"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	122	42029	290.3
+	"Michigan"	"26"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	744	336774	220.9
+	"Michigan"	"26"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	62	285345	21.7
+	"Michigan"	"26"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	157	36812	426.5
+	"Michigan"	"26"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	980	285345	343.4
+	"Michigan"	"26"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	50	274749	18.2
+	"Michigan"	"26"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	169	32431	521.1
+	"Michigan"	"26"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1262	274749	459.3
+	"Michigan"	"26"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	51	234079	21.8
+	"Michigan"	"26"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	122	25643	475.8
+	"Michigan"	"26"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1096	234079	468.2
+	"Michigan"	"26"	"80-84 years"	"80-84"	"Larynx"	"22020"	"White"	"2106-3"	24	163038	14.7
+	"Michigan"	"26"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	69	15744	438.3
+	"Michigan"	"26"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	598	163038	366.8
+	"Michigan"	"26"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	38	12274	309.6
+	"Michigan"	"26"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	368	133213	276.2
+	"Minnesota"	"27"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	24	365715	6.6
+	"Minnesota"	"27"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	46	392234	11.7
+	"Minnesota"	"27"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	88	353597	24.9
+	"Minnesota"	"27"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	143	307666	46.5
+	"Minnesota"	"27"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	236	224021	105.3
+	"Minnesota"	"27"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	29	177310	16.4
+	"Minnesota"	"27"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	344	177310	194.0
+	"Minnesota"	"27"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	25	147950	16.9
+	"Minnesota"	"27"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	421	147950	284.6
+	"Minnesota"	"27"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	28	138078	20.3
+	"Minnesota"	"27"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	482	138078	349.1
+	"Minnesota"	"27"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	457	120471	379.3
+	"Minnesota"	"27"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	266	90952	292.5
+	"Minnesota"	"27"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	149	86600	172.1
+	"Missouri"	"29"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	21	367942	5.7
+	"Missouri"	"29"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	71	393070	18.1
+	"Missouri"	"29"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	19	42140	45.1
+	"Missouri"	"29"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	127	358490	35.4
+	"Missouri"	"29"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	19	327691	5.8
+	"Missouri"	"29"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	29	34727	83.5
+	"Missouri"	"29"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	243	327691	74.2
+	"Missouri"	"29"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	29	256459	11.3
+	"Missouri"	"29"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	60	24624	243.7
+	"Missouri"	"29"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	358	256459	139.6
+	"Missouri"	"29"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	34	211921	16.0
+	"Missouri"	"29"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	59	19660	300.1
+	"Missouri"	"29"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	527	211921	248.7
+	"Missouri"	"29"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	42	185941	22.6
+	"Missouri"	"29"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	64	17136	373.5
+	"Missouri"	"29"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	735	185941	395.3
+	"Missouri"	"29"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	30	170646	17.6
+	"Missouri"	"29"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	47	14088	333.6
+	"Missouri"	"29"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	745	170646	436.6
+	"Missouri"	"29"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	19	146326	13.0
+	"Missouri"	"29"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	61	10745	567.7
+	"Missouri"	"29"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	674	146326	460.6
+	"Missouri"	"29"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	25	6741	370.9
+	"Missouri"	"29"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	376	102004	368.6
+	"Missouri"	"29"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	24	6108	392.9
+	"Missouri"	"29"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	235	92642	253.7
+	"Montana"	"30"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	27	62740	43.0
+	"Montana"	"30"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	45	46411	97.0
+	"Montana"	"30"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	69	37582	183.6
+	"Montana"	"30"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	108	31573	342.1
+	"Montana"	"30"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	112	29268	382.7
+	"Montana"	"30"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	131	24241	540.4
+	"Montana"	"30"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	80	18313	436.8
+	"Montana"	"30"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	49	15593	314.2
+	"Nebraska"	"31"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	35	119142	29.4
+	"Nebraska"	"31"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	54	104866	51.5
+	"Nebraska"	"31"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	87	76117	114.3
+	"Nebraska"	"31"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	120	62215	192.9
+	"Nebraska"	"31"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	162	56253	288.0
+	"Nebraska"	"31"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	229	54203	422.5
+	"Nebraska"	"31"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	187	46983	398.0
+	"Nebraska"	"31"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	113	34705	325.6
+	"Nebraska"	"31"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	69	33790	204.2
+	"Nevada"	"32"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	16	139035	11.5
+	"Nevada"	"32"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	30	126242	23.8
+	"Nevada"	"32"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	66	121365	54.4
+	"Nevada"	"32"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	17	6155	276.2
+	"Nevada"	"32"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	139	98578	141.0
+	"Nevada"	"32"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	170	80144	212.1
+	"Nevada"	"32"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	280	66019	424.1
+	"Nevada"	"32"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	287	56582	507.2
+	"Nevada"	"32"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	241	43680	551.7
+	"Nevada"	"32"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	113	25665	440.3
+	"Nevada"	"32"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	68	17079	398.1
+	"New Hampshire"	"33"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	17	112075	15.2
+	"New Hampshire"	"33"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	32	99503	32.2
+	"New Hampshire"	"33"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	64	90147	71.0
+	"New Hampshire"	"33"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	71	64436	110.2
+	"New Hampshire"	"33"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	106	47973	221.0
+	"New Hampshire"	"33"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	116	40779	284.5
+	"New Hampshire"	"33"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	158	36623	431.4
+	"New Hampshire"	"33"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	151	30372	497.2
+	"New Hampshire"	"33"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	68	21437	317.2
+	"New Hampshire"	"33"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	48	18597	258.1
+	"New Jersey"	"34"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	35	553520	6.3
+	"New Jersey"	"34"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	17	98989	17.2
+	"New Jersey"	"34"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	70	570717	12.3
+	"New Jersey"	"34"	"45-49 years"	"45-49"	"Larynx"	"22020"	"White"	"2106-3"	23	507363	4.5
+	"New Jersey"	"34"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	24	80442	29.8
+	"New Jersey"	"34"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	130	507363	25.6
+	"New Jersey"	"34"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	29	466979	6.2
+	"New Jersey"	"34"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	48	70991	67.6
+	"New Jersey"	"34"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	262	466979	56.1
+	"New Jersey"	"34"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	39	360551	10.8
+	"New Jersey"	"34"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	80	52969	151.0
+	"New Jersey"	"34"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	476	360551	132.0
+	"New Jersey"	"34"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	48	275980	17.4
+	"New Jersey"	"34"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	98	43765	223.9
+	"New Jersey"	"34"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	602	275980	218.1
+	"New Jersey"	"34"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	55	242024	22.7
+	"New Jersey"	"34"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	89	34735	256.2
+	"New Jersey"	"34"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	735	242024	303.7
+	"New Jersey"	"34"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	49	243164	20.2
+	"New Jersey"	"34"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	111	26483	419.1
+	"New Jersey"	"34"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	957	243164	393.6
+	"New Jersey"	"34"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	36	214115	16.8
+	"New Jersey"	"34"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	95	19287	492.6
+	"New Jersey"	"34"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	975	214115	455.4
+	"New Jersey"	"34"	"80-84 years"	"80-84"	"Larynx"	"22020"	"White"	"2106-3"	26	154505	16.8
+	"New Jersey"	"34"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	31	11415	271.6
+	"New Jersey"	"34"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	672	154505	434.9
+	"New Jersey"	"34"	"85+ years"	"85+"	"Larynx"	"22020"	"White"	"2106-3"	19	127538	14.9
+	"New Jersey"	"34"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	34	9371	362.8
+	"New Jersey"	"34"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	389	127538	305.0
+	"New Mexico"	"35"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	17	124248	13.7
+	"New Mexico"	"35"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	19	117883	16.1
+	"New Mexico"	"35"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	44	109832	40.1
+	"New Mexico"	"35"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	54	81590	66.2
+	"New Mexico"	"35"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	105	67271	156.1
+	"New Mexico"	"35"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	126	58579	215.1
+	"New Mexico"	"35"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	154	51435	299.4
+	"New Mexico"	"35"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	123	41647	295.3
+	"New Mexico"	"35"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	82	27355	299.8
+	"New Mexico"	"35"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	55	22556	243.8
+	"New York"	"36"	"30-34 years"	"30-34"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	19	1044821	1.8
+	"New York"	"36"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	16	287002	5.6
+	"New York"	"36"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	58	1130492	5.1
+	"New York"	"36"	"40-44 years"	"40-44"	"Larynx"	"22020"	"White"	"2106-3"	24	1148510	2.1
+	"New York"	"36"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	56	268342	20.9
+	"New York"	"36"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	154	1148510	13.4
+	"New York"	"36"	"45-49 years"	"45-49"	"Larynx"	"22020"	"White"	"2106-3"	32	1046166	3.1
+	"New York"	"36"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	79	222491	35.5
+	"New York"	"36"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	358	1046166	34.2
+	"New York"	"36"	"50-54 years"	"50-54"	"Larynx"	"22020"	"Black or African American"	"2054-5"	21	195782	10.7
+	"New York"	"36"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	66	991256	6.7
+	"New York"	"36"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	20	77193	25.9
+	"New York"	"36"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	142	195782	72.5
+	"New York"	"36"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	611	991256	61.6
+	"New York"	"36"	"55-59 years"	"55-59"	"Larynx"	"22020"	"Black or African American"	"2054-5"	18	150134	12.0
+	"New York"	"36"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	90	755349	11.9
+	"New York"	"36"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	21	51384	40.9
+	"New York"	"36"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	179	150134	119.2
+	"New York"	"36"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	986	755349	130.5
+	"New York"	"36"	"60-64 years "	"60-64"	"Larynx"	"22020"	"Black or African American"	"2054-5"	23	122849	18.7
+	"New York"	"36"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	98	602087	16.3
+	"New York"	"36"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	31	41469	74.8
+	"New York"	"36"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	195	122849	158.7
+	"New York"	"36"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1240	602087	206.0
+	"New York"	"36"	"65-69 years"	"65-69"	"Larynx"	"22020"	"Black or African American"	"2054-5"	25	95216	26.3
+	"New York"	"36"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	105	525522	20.0
+	"New York"	"36"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	47	31165	150.8
+	"New York"	"36"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	208	95216	218.5
+	"New York"	"36"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1588	525522	302.2
+	"New York"	"36"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	104	513536	20.3
+	"New York"	"36"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	42	22455	187.0
+	"New York"	"36"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	216	74737	289.0
+	"New York"	"36"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1992	513536	387.9
+	"New York"	"36"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	89	443763	20.1
+	"New York"	"36"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	45	15087	298.3
+	"New York"	"36"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	212	56765	373.5
+	"New York"	"36"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1854	443763	417.8
+	"New York"	"36"	"80-84 years"	"80-84"	"Larynx"	"22020"	"White"	"2106-3"	46	316532	14.5
+	"New York"	"36"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	25	8779	284.8
+	"New York"	"36"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	110	34809	316.0
+	"New York"	"36"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1269	316532	400.9
+	"New York"	"36"	"85+ years"	"85+"	"Larynx"	"22020"	"White"	"2106-3"	32	281915	11.4
+	"New York"	"36"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	22	6558	335.5
+	"New York"	"36"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	54	28564	189.0
+	"New York"	"36"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	869	281915	308.2
+	"North Carolina"	"37"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	20	483664	4.1
+	"North Carolina"	"37"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	24	140838	17.0
+	"North Carolina"	"37"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	87	487618	17.8
+	"North Carolina"	"37"	"45-49 years"	"45-49"	"Larynx"	"22020"	"White"	"2106-3"	17	448018	3.8
+	"North Carolina"	"37"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	67	126760	52.9
+	"North Carolina"	"37"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	132	448018	29.5
+	"North Carolina"	"37"	"50-54 years"	"50-54"	"Larynx"	"22020"	"Black or African American"	"2054-5"	16	105207	15.2
+	"North Carolina"	"37"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	29	428261	6.8
+	"North Carolina"	"37"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	105	105207	99.8
+	"North Carolina"	"37"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	275	428261	64.2
+	"North Carolina"	"37"	"55-59 years"	"55-59"	"Larynx"	"22020"	"Black or African American"	"2054-5"	16	70905	22.6
+	"North Carolina"	"37"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	37	338348	10.9
+	"North Carolina"	"37"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	116	70905	163.6
+	"North Carolina"	"37"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	462	338348	136.5
+	"North Carolina"	"37"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	50	271909	18.4
+	"North Carolina"	"37"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	123	55444	221.8
+	"North Carolina"	"37"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	590	271909	217.0
+	"North Carolina"	"37"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	35	235991	14.8
+	"North Carolina"	"37"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	129	47871	269.5
+	"North Carolina"	"37"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	754	235991	319.5
+	"North Carolina"	"37"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	47	209019	22.5
+	"North Carolina"	"37"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	145	39614	366.0
+	"North Carolina"	"37"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	828	209019	396.1
+	"North Carolina"	"37"	"75-79 years"	"75-79"	"Larynx"	"22020"	"Black or African American"	"2054-5"	17	31593	53.8
+	"North Carolina"	"37"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	38	169783	22.4
+	"North Carolina"	"37"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	115	31593	364.0
+	"North Carolina"	"37"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	786	169783	462.9
+	"North Carolina"	"37"	"80-84 years"	"80-84"	"Larynx"	"22020"	"White"	"2106-3"	23	112672	20.4
+	"North Carolina"	"37"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	63	20487	307.5
+	"North Carolina"	"37"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	401	112672	355.9
+	"North Carolina"	"37"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	39	17856	218.4
+	"North Carolina"	"37"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	265	88960	297.9
+	"North Dakota"	"38"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	23	38706	59.4
+	"North Dakota"	"38"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	27	28667	94.2
+	"North Dakota"	"38"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	37	23761	155.7
+	"North Dakota"	"38"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	76	22388	339.5
+	"North Dakota"	"38"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	54	21808	247.6
+	"North Dakota"	"38"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	71	18867	376.3
+	"North Dakota"	"38"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	42	14695	285.8
+	"North Dakota"	"38"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	24	14789	162.3
+	"Ohio"	"39"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	47	736884	6.4
+	"Ohio"	"39"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	18	104971	17.1
+	"Ohio"	"39"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	137	805668	17.0
+	"Ohio"	"39"	"45-49 years"	"45-49"	"Larynx"	"22020"	"White"	"2106-3"	26	750293	3.5
+	"Ohio"	"39"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	47	91099	51.6
+	"Ohio"	"39"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	250	750293	33.3
+	"Ohio"	"39"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	47	691372	6.8
+	"Ohio"	"39"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	58	75790	76.5
+	"Ohio"	"39"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	466	691372	67.4
+	"Ohio"	"39"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	62	504008	12.3
+	"Ohio"	"39"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	91	51443	176.9
+	"Ohio"	"39"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	691	504008	137.1
+	"Ohio"	"39"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	62	415576	14.9
+	"Ohio"	"39"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	119	43568	273.1
+	"Ohio"	"39"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1009	415576	242.8
+	"Ohio"	"39"	"65-69 years"	"65-69"	"Larynx"	"22020"	"Black or African American"	"2054-5"	16	39476	40.5
+	"Ohio"	"39"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	58	355870	16.3
+	"Ohio"	"39"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	131	39476	331.8
+	"Ohio"	"39"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1241	355870	348.7
+	"Ohio"	"39"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	77	345619	22.3
+	"Ohio"	"39"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	167	33794	494.2
+	"Ohio"	"39"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1597	345619	462.1
+	"Ohio"	"39"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	58	299009	19.4
+	"Ohio"	"39"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	115	25642	448.5
+	"Ohio"	"39"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1358	299009	454.2
+	"Ohio"	"39"	"80-84 years"	"80-84"	"Larynx"	"22020"	"White"	"2106-3"	17	205963	8.3
+	"Ohio"	"39"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	80	15353	521.1
+	"Ohio"	"39"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	890	205963	432.1
+	"Ohio"	"39"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	38	12473	304.7
+	"Ohio"	"39"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	539	166878	323.0
+	"Oklahoma"	"40"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	44	219613	20.0
+	"Oklahoma"	"40"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	73	206540	35.3
+	"Oklahoma"	"40"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	20	13841	144.5
+	"Oklahoma"	"40"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	138	190392	72.5
+	"Oklahoma"	"40"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	19	152850	12.4
+	"Oklahoma"	"40"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"American Indian or Alaska Native"	"1002-5"	25	12215	204.7
+	"Oklahoma"	"40"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	23	9491	242.3
+	"Oklahoma"	"40"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	264	152850	172.7
+	"Oklahoma"	"40"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	23	127929	18.0
+	"Oklahoma"	"40"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"American Indian or Alaska Native"	"1002-5"	28	9435	296.8
+	"Oklahoma"	"40"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	21	7584	276.9
+	"Oklahoma"	"40"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	322	127929	251.7
+	"Oklahoma"	"40"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	20	114459	17.5
+	"Oklahoma"	"40"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"American Indian or Alaska Native"	"1002-5"	24	7536	318.5
+	"Oklahoma"	"40"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	22	6229	353.2
+	"Oklahoma"	"40"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	457	114459	399.3
+	"Oklahoma"	"40"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	22	101862	21.6
+	"Oklahoma"	"40"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"American Indian or Alaska Native"	"1002-5"	25	5625	444.4
+	"Oklahoma"	"40"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	24	4956	484.3
+	"Oklahoma"	"40"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	517	101862	507.5
+	"Oklahoma"	"40"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	19	85699	22.2
+	"Oklahoma"	"40"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"American Indian or Alaska Native"	"1002-5"	25	4324	578.2
+	"Oklahoma"	"40"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	20	3935	508.3
+	"Oklahoma"	"40"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	456	85699	532.1
+	"Oklahoma"	"40"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"American Indian or Alaska Native"	"1002-5"	18	2586	696.1
+	"Oklahoma"	"40"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	277	58736	471.6
+	"Oklahoma"	"40"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	178	51530	345.4
+	"Oregon"	"41"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	31	251961	12.3
+	"Oregon"	"41"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	73	257585	28.3
+	"Oregon"	"41"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	142	238765	59.5
+	"Oregon"	"41"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	208	171895	121.0
+	"Oregon"	"41"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	19	131311	14.5
+	"Oregon"	"41"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	298	131311	226.9
+	"Oregon"	"41"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	376	108354	347.0
+	"Oregon"	"41"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	479	102016	469.5
+	"Oregon"	"41"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	419	91870	456.1
+	"Oregon"	"41"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	268	67224	398.7
+	"Oregon"	"41"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	169	57953	291.6
+	"Pennsylvania"	"42"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	49	797721	6.1
+	"Pennsylvania"	"42"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	32	99125	32.3
+	"Pennsylvania"	"42"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	139	882072	15.8
+	"Pennsylvania"	"42"	"45-49 years"	"45-49"	"Larynx"	"22020"	"White"	"2106-3"	27	827950	3.3
+	"Pennsylvania"	"42"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	51	84639	60.3
+	"Pennsylvania"	"42"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	259	827950	31.3
+	"Pennsylvania"	"42"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	41	755642	5.4
+	"Pennsylvania"	"42"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	82	72595	113.0
+	"Pennsylvania"	"42"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	459	755642	60.7
+	"Pennsylvania"	"42"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	65	570431	11.4
+	"Pennsylvania"	"42"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	126	51104	246.6
+	"Pennsylvania"	"42"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	794	570431	139.2
+	"Pennsylvania"	"42"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	94	469347	20.0
+	"Pennsylvania"	"42"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	136	42296	321.5
+	"Pennsylvania"	"42"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	982	469347	209.2
+	"Pennsylvania"	"42"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	101	426834	23.7
+	"Pennsylvania"	"42"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	144	37707	381.9
+	"Pennsylvania"	"42"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1363	426834	319.3
+	"Pennsylvania"	"42"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	80	440361	18.2
+	"Pennsylvania"	"42"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	148	32730	452.2
+	"Pennsylvania"	"42"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1714	440361	389.2
+	"Pennsylvania"	"42"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	76	392298	19.4
+	"Pennsylvania"	"42"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	135	26355	512.2
+	"Pennsylvania"	"42"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1708	392298	435.4
+	"Pennsylvania"	"42"	"80-84 years"	"80-84"	"Larynx"	"22020"	"White"	"2106-3"	35	281054	12.5
+	"Pennsylvania"	"42"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	76	16143	470.8
+	"Pennsylvania"	"42"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1125	281054	400.3
+	"Pennsylvania"	"42"	"85+ years"	"85+"	"Larynx"	"22020"	"White"	"2106-3"	27	227441	11.9
+	"Pennsylvania"	"42"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	40	12920	309.6
+	"Pennsylvania"	"42"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	654	227441	287.5
+	"Rhode Island"	"44"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	25	71979	34.7
+	"Rhode Island"	"44"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	41	65608	62.5
+	"Rhode Island"	"44"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	68	49313	137.9
+	"Rhode Island"	"44"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	89	37403	237.9
+	"Rhode Island"	"44"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	111	33231	334.0
+	"Rhode Island"	"44"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	137	35009	391.3
+	"Rhode Island"	"44"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	157	32779	479.0
+	"Rhode Island"	"44"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	91	23937	380.2
+	"Rhode Island"	"44"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	60	20884	287.3
+	"South Carolina"	"45"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	47	218476	21.5
+	"South Carolina"	"45"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	33	85399	38.6
+	"South Carolina"	"45"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	77	205479	37.5
+	"South Carolina"	"45"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	19	201520	9.4
+	"South Carolina"	"45"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	70	72788	96.2
+	"South Carolina"	"45"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	146	201520	72.4
+	"South Carolina"	"45"	"55-59 years"	"55-59"	"Larynx"	"22020"	"Black or African American"	"2054-5"	16	49557	32.3
+	"South Carolina"	"45"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	23	162868	14.1
+	"South Carolina"	"45"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	90	49557	181.6
+	"South Carolina"	"45"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	262	162868	160.9
+	"South Carolina"	"45"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	30	132923	22.6
+	"South Carolina"	"45"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	76	37952	200.3
+	"South Carolina"	"45"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	324	132923	243.8
+	"South Carolina"	"45"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	20	115179	17.4
+	"South Carolina"	"45"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	92	32595	282.3
+	"South Carolina"	"45"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	401	115179	348.2
+	"South Carolina"	"45"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	26	97891	26.6
+	"South Carolina"	"45"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	108	25953	416.1
+	"South Carolina"	"45"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	476	97891	486.3
+	"South Carolina"	"45"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	18	80780	22.3
+	"South Carolina"	"45"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	68	21191	320.9
+	"South Carolina"	"45"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	420	80780	519.9
+	"South Carolina"	"45"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	40	14196	281.8
+	"South Carolina"	"45"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	207	52065	397.6
+	"South Carolina"	"45"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	30	12097	248.0
+	"South Carolina"	"45"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	90	39135	230.0
+	"South Dakota"	"46"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	27	44253	61.0
+	"South Dakota"	"46"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	40	32815	121.9
+	"South Dakota"	"46"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	45	27518	163.5
+	"South Dakota"	"46"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	71	25490	278.5
+	"South Dakota"	"46"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	81	24926	325.0
+	"South Dakota"	"46"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	86	21858	393.4
+	"South Dakota"	"46"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	67	16497	406.1
+	"South Dakota"	"46"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	24	15992	150.1
+	"Tennessee"	"47"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	20	362982	5.5
+	"Tennessee"	"47"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	79	372330	21.2
+	"Tennessee"	"47"	"45-49 years"	"45-49"	"Larynx"	"22020"	"White"	"2106-3"	19	351292	5.4
+	"Tennessee"	"47"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	23	66283	34.7
+	"Tennessee"	"47"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	126	351292	35.9
+	"Tennessee"	"47"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	30	337372	8.9
+	"Tennessee"	"47"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	29	53006	54.7
+	"Tennessee"	"47"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	244	337372	72.3
+	"Tennessee"	"47"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	46	265495	17.3
+	"Tennessee"	"47"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	42	33875	124.0
+	"Tennessee"	"47"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	412	265495	155.2
+	"Tennessee"	"47"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	33	216358	15.3
+	"Tennessee"	"47"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	54	26823	201.3
+	"Tennessee"	"47"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	549	216358	253.7
+	"Tennessee"	"47"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	45	184175	24.4
+	"Tennessee"	"47"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	68	23032	295.2
+	"Tennessee"	"47"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	654	184175	355.1
+	"Tennessee"	"47"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	30	158296	19.0
+	"Tennessee"	"47"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	71	18695	379.8
+	"Tennessee"	"47"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	665	158296	420.1
+	"Tennessee"	"47"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	23	130452	17.6
+	"Tennessee"	"47"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	50	14848	336.7
+	"Tennessee"	"47"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	491	130452	376.4
+	"Tennessee"	"47"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	30	9713	308.9
+	"Tennessee"	"47"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	304	87111	349.0
+	"Tennessee"	"47"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	125	72873	171.5
+	"Texas"	"48"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	45	1381685	3.3
+	"Texas"	"48"	"40-44 years"	"40-44"	"Larynx"	"22020"	"White"	"2106-3"	19	1402839	1.4
+	"Texas"	"48"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	48	205717	23.3
+	"Texas"	"48"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	201	1402839	14.3
+	"Texas"	"48"	"45-49 years"	"45-49"	"Larynx"	"22020"	"White"	"2106-3"	44	1242408	3.5
+	"Texas"	"48"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	73	172142	42.4
+	"Texas"	"48"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	310	1242408	25.0
+	"Texas"	"48"	"50-54 years"	"50-54"	"Nose, Nasal Cavity and Middle Ear"	"22010"	"White"	"2106-3"	18	1093852	1.6
+	"Texas"	"48"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	57	1093852	5.2
+	"Texas"	"48"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	112	135651	82.6
+	"Texas"	"48"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	582	1093852	53.2
+	"Texas"	"48"	"55-59 years"	"55-59"	"Nose, Nasal Cavity and Middle Ear"	"22010"	"White"	"2106-3"	19	815897	2.3
+	"Texas"	"48"	"55-59 years"	"55-59"	"Larynx"	"22020"	"Black or African American"	"2054-5"	25	89119	28.1
+	"Texas"	"48"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	104	815897	12.7
+	"Texas"	"48"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	161	89119	180.7
+	"Texas"	"48"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	934	815897	114.5
+	"Texas"	"48"	"60-64 years "	"60-64"	"Nose, Nasal Cavity and Middle Ear"	"22010"	"White"	"2106-3"	16	636907	2.5
+	"Texas"	"48"	"60-64 years "	"60-64"	"Larynx"	"22020"	"Black or African American"	"2054-5"	20	68809	29.1
+	"Texas"	"48"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	98	636907	15.4
+	"Texas"	"48"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	16	18352	87.2
+	"Texas"	"48"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	203	68809	295.0
+	"Texas"	"48"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1365	636907	214.3
+	"Texas"	"48"	"65-69 years"	"65-69"	"Nose, Nasal Cavity and Middle Ear"	"22010"	"White"	"2106-3"	18	545253	3.3
+	"Texas"	"48"	"65-69 years"	"65-69"	"Larynx"	"22020"	"Black or African American"	"2054-5"	25	57959	43.1
+	"Texas"	"48"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	100	545253	18.3
+	"Texas"	"48"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	23	13009	176.8
+	"Texas"	"48"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	242	57959	417.5
+	"Texas"	"48"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1745	545253	320.0
+	"Texas"	"48"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	97	479305	20.2
+	"Texas"	"48"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	22	9248	237.9
+	"Texas"	"48"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	221	46172	478.6
+	"Texas"	"48"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1995	479305	416.2
+	"Texas"	"48"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	93	389914	23.9
+	"Texas"	"48"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	155	34612	447.8
+	"Texas"	"48"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1854	389914	475.5
+	"Texas"	"48"	"80-84 years"	"80-84"	"Larynx"	"22020"	"White"	"2106-3"	40	255286	15.7
+	"Texas"	"48"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	87	21626	402.3
+	"Texas"	"48"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	1091	255286	427.4
+	"Texas"	"48"	"85+ years"	"85+"	"Larynx"	"22020"	"White"	"2106-3"	20	215328	9.3
+	"Texas"	"48"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	66	20471	322.4
+	"Texas"	"48"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	704	215328	326.9
+	"Utah"	"49"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	25	109854	22.8
+	"Utah"	"49"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	43	80441	53.5
+	"Utah"	"49"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	62	62946	98.5
+	"Utah"	"49"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	79	53073	148.9
+	"Utah"	"49"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	83	47090	176.3
+	"Utah"	"49"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	92	39378	233.6
+	"Utah"	"49"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	58	27724	209.2
+	"Utah"	"49"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	25	21942	113.9
+	"Vermont"	"50"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	29	46015	63.0
+	"Vermont"	"50"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	32	33485	95.6
+	"Vermont"	"50"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	45	25024	179.8
+	"Vermont"	"50"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	56	20830	268.8
+	"Vermont"	"50"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	66	19358	340.9
+	"Vermont"	"50"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	69	15999	431.3
+	"Vermont"	"50"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	52	11238	462.7
+	"Vermont"	"50"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	27	10147	266.1
+	"Virginia"	"51"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	20	445820	4.5
+	"Virginia"	"51"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	55	451730	12.2
+	"Virginia"	"51"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	39	103734	37.6
+	"Virginia"	"51"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	122	415840	29.3
+	"Virginia"	"51"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	25	397430	6.3
+	"Virginia"	"51"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	62	82672	75.0
+	"Virginia"	"51"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	189	397430	47.6
+	"Virginia"	"51"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	20	302081	6.6
+	"Virginia"	"51"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	70	56770	123.3
+	"Virginia"	"51"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	328	302081	108.6
+	"Virginia"	"51"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	34	228186	14.9
+	"Virginia"	"51"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	106	45540	232.8
+	"Virginia"	"51"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	449	228186	196.8
+	"Virginia"	"51"	"65-69 years"	"65-69"	"Larynx"	"22020"	"Black or African American"	"2054-5"	16	39126	40.9
+	"Virginia"	"51"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	24	186107	12.9
+	"Virginia"	"51"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	121	39126	309.3
+	"Virginia"	"51"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	570	186107	306.3
+	"Virginia"	"51"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	22	167022	13.2
+	"Virginia"	"51"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	128	32153	398.1
+	"Virginia"	"51"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	609	167022	364.6
+	"Virginia"	"51"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	19	139594	13.6
+	"Virginia"	"51"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	94	25424	369.7
+	"Virginia"	"51"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	536	139594	384.0
+	"Virginia"	"51"	"80-84 years"	"80-84"	"Larynx"	"22020"	"White"	"2106-3"	18	94092	19.1
+	"Virginia"	"51"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	48	16198	296.3
+	"Virginia"	"51"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	320	94092	340.1
+	"Virginia"	"51"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	28	13281	210.8
+	"Virginia"	"51"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	112	74645	150.0
+	"Washington"	"53"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	17	408245	4.2
+	"Washington"	"53"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	49	436349	11.2
+	"Washington"	"53"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	115	415075	27.7
+	"Washington"	"53"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	19	375666	5.1
+	"Washington"	"53"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	205	375666	54.6
+	"Washington"	"53"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	30	273164	11.0
+	"Washington"	"53"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	307	273164	112.4
+	"Washington"	"53"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	31	200204	15.5
+	"Washington"	"53"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	16	12781	125.2
+	"Washington"	"53"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	17	4840	351.2
+	"Washington"	"53"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	420	200204	209.8
+	"Washington"	"53"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	32	161881	19.8
+	"Washington"	"53"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	23	9954	231.1
+	"Washington"	"53"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	537	161881	331.7
+	"Washington"	"53"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	35	147951	23.7
+	"Washington"	"53"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Asian or Pacific Islander"	"A-PI"	24	8137	294.9
+	"Washington"	"53"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	678	147951	458.3
+	"Washington"	"53"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	16	133177	12.0
+	"Washington"	"53"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	648	133177	486.6
+	"Washington"	"53"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	434	97665	444.4
+	"Washington"	"53"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	287	83169	345.1
+	"West Virginia"	"54"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	37	134837	27.4
+	"West Virginia"	"54"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	71	135805	52.3
+	"West Virginia"	"54"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	118	132414	89.1
+	"West Virginia"	"54"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	182	97874	186.0
+	"West Virginia"	"54"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	18	84630	21.3
+	"West Virginia"	"54"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	231	84630	273.0
+	"West Virginia"	"54"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	315	73928	426.1
+	"West Virginia"	"54"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	21	69442	30.2
+	"West Virginia"	"54"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	382	69442	550.1
+	"West Virginia"	"54"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	16	57357	27.9
+	"West Virginia"	"54"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	361	57357	629.4
+	"West Virginia"	"54"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	180	37422	481.0
+	"West Virginia"	"54"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	109	30612	356.1
+	"Wisconsin"	"55"	"35-39 years"	"35-39"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	29	385961	7.5
+	"Wisconsin"	"55"	"40-44 years"	"40-44"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	55	415547	13.2
+	"Wisconsin"	"55"	"45-49 years"	"45-49"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	92	382044	24.1
+	"Wisconsin"	"55"	"50-54 years"	"50-54"	"Larynx"	"22020"	"White"	"2106-3"	21	336490	6.2
+	"Wisconsin"	"55"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	16	15125	105.8
+	"Wisconsin"	"55"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	176	336490	52.3
+	"Wisconsin"	"55"	"55-59 years"	"55-59"	"Larynx"	"22020"	"White"	"2106-3"	30	247736	12.1
+	"Wisconsin"	"55"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	23	9554	240.7
+	"Wisconsin"	"55"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	304	247736	122.7
+	"Wisconsin"	"55"	"60-64 years "	"60-64"	"Larynx"	"22020"	"White"	"2106-3"	42	199179	21.1
+	"Wisconsin"	"55"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	33	7520	438.8
+	"Wisconsin"	"55"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	434	199179	217.9
+	"Wisconsin"	"55"	"65-69 years"	"65-69"	"Larynx"	"22020"	"White"	"2106-3"	33	172453	19.1
+	"Wisconsin"	"55"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	23	5919	388.6
+	"Wisconsin"	"55"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	513	172453	297.5
+	"Wisconsin"	"55"	"70-74 years"	"70-74"	"Larynx"	"22020"	"White"	"2106-3"	23	166202	13.8
+	"Wisconsin"	"55"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	30	4785	627.0
+	"Wisconsin"	"55"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	634	166202	381.5
+	"Wisconsin"	"55"	"75-79 years"	"75-79"	"Larynx"	"22020"	"White"	"2106-3"	32	142417	22.5
+	"Wisconsin"	"55"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"Black or African American"	"2054-5"	18	3071	586.1
+	"Wisconsin"	"55"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	573	142417	402.3
+	"Wisconsin"	"55"	"80-84 years"	"80-84"	"Larynx"	"22020"	"White"	"2106-3"	16	105246	15.2
+	"Wisconsin"	"55"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	393	105246	373.4
+	"Wisconsin"	"55"	"85+ years"	"85+"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	255	95359	267.4
+	"Wyoming"	"56"	"50-54 years"	"50-54"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	20	34954	57.2
+	"Wyoming"	"56"	"55-59 years"	"55-59"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	22	24969	88.1
+	"Wyoming"	"56"	"60-64 years "	"60-64"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	32	19786	161.7
+	"Wyoming"	"56"	"65-69 years"	"65-69"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	42	16432	255.6
+	"Wyoming"	"56"	"70-74 years"	"70-74"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	44	14525	302.9
+	"Wyoming"	"56"	"75-79 years"	"75-79"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	35	11700	299.1
+	"Wyoming"	"56"	"80-84 years"	"80-84"	"Lung and Bronchus"	"22030"	"White"	"2106-3"	26	7948	327.1
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2015 Incidence"
+"Query Parameters:"
+"Cancer Sites: Nose, Nasal Cavity and Middle Ear; Larynx; Lung and Bronchus; Pleura; Trachea, Mediastinum and Other Respiratory"
+"Organs"
+"Year: 2001"
+"Group By: States; Age Groups; Cancer Sites; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2015.html for more information."
+"---"
+"Query Date: Apr 27, 2019 2:19:11 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics: 1999 - 2015 Incidence, WONDER Online Database. United States Department of"
+"Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2018. Accessed at"
+"http://wonder.cdc.gov/cancer-v2015.html on Apr 27, 2019 2:19:11 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"","
+"""American Indian or Alaska Native"", and the ""Other Races Combined"" race categories are suppressed at the Metropolitan"
+"Statistical Area level for populations less than 50,000 persons. Data are suppressed at the state level for certain race and"
+"ethnicity groups: 1) American Indian or Alaska Native data are suppressed at the state level for Delaware, Illinois, Kansas,"
+"Kentucky, New Jersey, and New York; 2) Asian or Pacific Islander data are suppressed at the state level for Delaware, Kansas,"
+"and Kentucky; 3) Hispanic data are supressed at the state level for Delaware, Kentucky, and Massachusetts. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2015.html#Confidentiality."
+"2. 'Not Applicable' is displayed for Population when it is not available, and for Age Adjusted Rates, Crude Rates, 95%"
+"Confidence Interval, and Standard Error when they cannot be calculated due to lack of denominator population."
+"3. 'Missing' is displayed for a combination of states/territories/MSAs and years that did not meet the United States Cancer"
+"Statistics (USCS) publication standard or did not allow permission for their data to be used."
+"4. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"5. Age-adjusted rates are not available when results are grouped by age."
+"6. These states are missing data for the indicated year: Arkansas 1999-2000; Mississippi 1999-2002; South Dakota 1999-2000."
+"7. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"8. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"9. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
