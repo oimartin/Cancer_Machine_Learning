@@ -64,12 +64,13 @@ def list_pollutants():
         pollution.SO2,
         pollution.State,
         pollution.Year
-    )
+    ).\
+        order_by(pollution.Year.desc())
 
-    data = results.all()
+#Create lits from the query results
 
     pollution_data = []
-    for d in data[:15]:
+    for d in results[:15]:
 
         print('data:', d)
 
@@ -85,8 +86,20 @@ def list_pollutants():
             "State": d[8],
             "Year": d[9]
         })
+# Generate the plot trace
+    trace1 = {
+        "x": ["CO","Lead","NO2","Ozone","PM10","PM2_5","SO2"],
+        "y": pollution_data,
+        #"y": [pollution.CO,pollution.Lead,pollution.NO2,pollution.Ozone,pollution.PM10,pollution.PM2_5,pollution.SO2],
+        "type": "bar"
+    }
+    return jsonify(trace1)
 
-    return json.dumps(pollution_data)
+    
+
+
+    #return json.dumps(pollution_data)
+    #return json.dumps(pollution_data)
 
 
 if __name__ == "__main__":
