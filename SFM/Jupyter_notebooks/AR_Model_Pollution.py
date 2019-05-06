@@ -241,5 +241,5 @@ for i in range (0, len(statelist)):
 
     # print(statelist[i])
 for i in range (0, len(data_predict_list)):
-    data_predict_list[i].to_csv("../Data/Data " + str(statelist[i]) + ".csv",",")
+    data_predict_list[i].to_csv("../Data/Pollution" + str(statelist[i]) + ".csv",",")
 

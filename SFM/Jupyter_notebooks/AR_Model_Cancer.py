@@ -5,7 +5,7 @@ statelist = ['AK', 'AL', 'AR', 'AZ', 'CA', 'CO', 'CT', 'DE', 'FL', 'GA', 'HI',
        'MN', 'MO', 'MS', 'MT', 'NC', 'ND', 'NE', 'NH', 'NJ', 'NM', 'NV',
        'NY', 'OH', 'OK', 'OR', 'PA', 'PR', 'RI', 'SC', 'SD', 'TN', 'TX',
        'UT', 'VA', 'VT', 'WA', 'WI', 'WV', 'WY']
-racelist = ["White", "Other Races and Unknown combined", "American Indian or Alaska Native", "Asian or Pacific Islander", "Black or African American"]       
+racelist = ["White", "Other", "American_Indian_or_Alaska_Native", "Asian_or_Pacific_Islander", "Black_or_African_American"]       
 sexlist =["Male", "Female"]
   #dependencies
 import requests
@@ -42,6 +42,10 @@ for i in range (0, len(sexlist)):
 
             choice_df = choice_df.fillna(0)
             choice_df = choice_df.replace("Not Applicable", 0)
+            choice_df = choice_df.replace("Other Races and Unknown combined", "Other")
+            choice_df = choice_df.replace("American Indian or Alaska Native" , "American_Indian_or_Alaska_Native")
+            choice_df = choice_df.replace("Asian or Pacific Islander" , "Asian_or_Pacific_Islander")
+            choice_df = choice_df.replace("Black or African American" , "Black_or_African_American")
             choice_df["Crude Rate"] = choice_df["Crude Rate"].astype(float)
 
 
@@ -184,22 +188,22 @@ for i in range (0, len(sexlist)):
             if len(cancers[0]) == len(years):
                 lung_with_predict = pd.DataFrame({"Year": years, "Lung": cancers[0]})
                 lung_with_predict[lung_with_predict<0]=0
-                lung_with_predict.to_csv("../Data/Data " + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "LUNG.csv",",")
+                lung_with_predict.to_csv("../Data/Data" + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "LUNG.csv",",")
 
             if len(cancers[1]) == len(years):
                 larynx_with_predict = pd.DataFrame({"Year": years, "Larynx": cancers[1]})
                 larynx_with_predict[larynx_with_predict<0]=0
-                larynx_with_predict.to_csv("../Data/Data " + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "larynx.csv",",")
+                larynx_with_predict.to_csv("../Data/Data" + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "larynx.csv",",")
 
             if len(cancers[2]) == len(years):
                 nasal_with_predict = pd.DataFrame({"Year": years, "Nasal": cancers[2]})
                 nasal_with_predict[nasal_with_predict<0]=0
-                nasal_with_predict.to_csv("../Data/Data " + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "Nasal.csv",",")
+                nasal_with_predict.to_csv("../Data/Data" + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "Nasal.csv",",")
 
             if len(cancers[3]) == len(years):
                 trachea_with_predict = pd.DataFrame({"Year": years, "Trachea": cancers[3]})
                 trachea_with_predict[trachea_with_predict<0]=0
-                trachea_with_predict.to_csv("../Data/Data " + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "Trach.csv",",")    
+                trachea_with_predict.to_csv("../Data/Data" + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "Trach.csv",",")    
 
            
 
