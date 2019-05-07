@@ -12,7 +12,7 @@ from sqlalchemy import create_engine, Column, Integer, Float, String
 from flask_cors import CORS
 from flask import Flask, jsonify, render_template
 
-engine = create_engine("sqlite:///db/map_db.sqlite")
+engine = create_engine("sqlite:///db/final_project_db.sqlite")
 app = Flask(__name__)
 CORS(app)
 
@@ -28,9 +28,11 @@ FL_df = pd.read_sql_query("select * from PollutionFL", engine)
 GA_df = pd.read_sql_query("select * from PollutionGA", engine)
 HI_df = pd.read_sql_query("select * from PollutionHI", engine)
 ID_df = pd.read_sql_query("select * from PollutionID", engine)
+IN_df = pd.read_sql_query("select * from PollutionIN", engine)
 IL_df = pd.read_sql_query("select * from PollutionIL", engine)
 IA_df = pd.read_sql_query("select * from PollutionIA", engine)
 KS_df = pd.read_sql_query("select * from PollutionKS", engine)
+KY_df = pd.read_sql_query("select * from PollutionKY", engine)
 LA_df = pd.read_sql_query("select * from PollutionLA", engine)
 ME_df = pd.read_sql_query("select * from PollutionME", engine)
 MD_df = pd.read_sql_query("select * from PollutionMD", engine)
@@ -41,6 +43,7 @@ MS_df = pd.read_sql_query("select * from PollutionMS", engine)
 MO_df = pd.read_sql_query("select * from PollutionMO", engine)
 MT_df = pd.read_sql_query("select * from PollutionMT", engine)
 NE_df = pd.read_sql_query("select * from PollutionNE", engine)
+NH_df = pd.read_sql_query("select * from PollutionNH", engine)
 NV_df = pd.read_sql_query("select * from PollutionNV", engine)
 NJ_df = pd.read_sql_query("select * from PollutionNJ", engine)
 NM_df = pd.read_sql_query("select * from PollutionNM", engine)
@@ -298,10 +301,17 @@ AZWhiteMaleLUNG=pd.read_sql_query("select * from DataAZWhiteMaleLUNG", engine)
 ALWhiteMalelarynx=pd.read_sql_query("select * from DataALWhiteMalelarynx", engine)
 ALWhiteMaleLUNG=pd.read_sql_query("select * from DataALWhiteMaleLUNG", engine)
 
-PollutionList = [AK_df, AL_df, AZ_df, AR_df, CA_df, CO_df, CT_df, DE_df, FL_df, GA_df, HI_df, IA_df, ID_df, IL_df, IN_df, KS_df, KY_df, LA_df, MA_df, MD_df, ME_df, MI_df, MN_df, MO_df, MS_df, MT_df, NC_df, ND_df, NE_Df, NH_df, NJ_df, NM_df, NV_df, NY_df, OH_df, OK_df, OR_df, PA_df, PR_df, RI_df, SC_df, SD_df, TN_df, TX_df, UT_df, VA_df, VT_df, WA_df, WI_df, WV_df, WY_df]
+PollutionList = [AK_df, AL_df, AZ_df, AR_df, CA_df, CO_df, CT_df, DE_df, FL_df, GA_df, 
+HI_df, IA_df, ID_df, IL_df, IN_df, KS_df, KY_df, LA_df, MA_df, MD_df, ME_df, MI_df, 
+MN_df, MO_df, MS_df, MT_df, NC_df, ND_df, NE_df, NH_df, NJ_df, NM_df, NV_df, NY_df, 
+OH_df, OK_df, OR_df, PA_df, RI_df, SC_df, SD_df, TN_df, TX_df, UT_df, VA_df, 
+VT_df, WA_df, WI_df, WV_df, WY_df]
 
 
-stateList = pd.DataFrame({"states":["AK", "AL", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "IA", "ID", "IL", "IN", "KS", "KY", "LA", "MA", "MD", "ME", "MI", "MN", "MO", "MS", "MT", "NC", "ND", "NE", "NH", "NJ", "NM", "NV", "NY", "OH", "OK", "OR", "PA", "PR", "RI", "SC", "SD", "TN", "TX", "UT", "VA", "VT", "WA", "WI", "WV", "WY"]})
+stateList = pd.DataFrame({"states":["AK", "AL", "AZ", "AR", "CA", "CO", "CT", "DE", 
+"FL", "GA", "HI", "IA", "ID", "IL", "IN", "KS", "KY", "LA", "MA", "MD", "ME", "MI", 
+"MN", "MO", "MS", "MT", "NC", "ND", "NE", "NH", "NJ", "NM", "NV", "NY", "OH", "OK", 
+"OR", "PA", "PR", "RI", "SC", "SD", "TN", "TX", "UT", "VA", "VT", "WA", "WI", "WV", "WY"]})
 print(stateList)
 
 # create route that renders index.html template
