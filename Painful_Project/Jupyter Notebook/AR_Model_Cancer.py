@@ -182,22 +182,22 @@ for i in range (0, len(sexlist)):
             print(sexlist[i], racelist[j],statelist[k])
 
             if len(cancers[0]) == len(years):
-                lung_with_predict = pd.DataFrame({"Year": years, "Lung": cancers[0]})
-                lung_with_predict[lung_with_predict<0]=0
-                lung_with_predict["State"] = statelist[k]
-                lung_with_predict["Gender"]= sexlist[i]
-                lung_with_predict["Race"]= racelist[j]
-                lung_with_predict["Cancer"] = 'Lung'
-                lung_with_predict.to_csv("../Data/To_merge_cancer/Data " + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "LUNG.csv",",")
-
-            if len(cancers[1]) == len(years):
-                larynx_with_predict = pd.DataFrame({"Year": years, "Larynx": cancers[1]})
+                larynx_with_predict = pd.DataFrame({"Year": years, "Larynx": cancers[0]})
                 larynx_with_predict[larynx_with_predict<0]=0
                 larynx_with_predict["State"] = statelist[k]
                 larynx_with_predict["Gender"]= sexlist[i]
                 larynx_with_predict["Race"]= racelist[j]
                 larynx_with_predict["Cancer"] = 'Larynx'
                 larynx_with_predict.to_csv("../Data/To_merge_cancer/Data " + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "larynx.csv",",")
+
+            if len(cancers[1]) == len(years):
+                lung_with_predict = pd.DataFrame({"Year": years, "Lung": cancers[1]})
+                lung_with_predict[lung_with_predict<0]=0
+                lung_with_predict["State"] = statelist[k]
+                lung_with_predict["Gender"]= sexlist[i]
+                lung_with_predict["Race"]= racelist[j]
+                lung_with_predict["Cancer"] = 'Lung'
+                lung_with_predict.to_csv("../Data/To_merge_cancer/Data " + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "lung.csv",",")
 
             if len(cancers[2]) == len(years):
                 nasal_with_predict = pd.DataFrame({"Year": years, "Nasal": cancers[2]})
