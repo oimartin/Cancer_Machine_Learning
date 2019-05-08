@@ -185,25 +185,37 @@ for i in range (0, len(sexlist)):
                 lung_with_predict = pd.DataFrame({"Year": years, "Lung": cancers[0]})
                 lung_with_predict[lung_with_predict<0]=0
                 lung_with_predict["State"] = statelist[k]
-                lung_with_predict.to_csv("../Data/Data " + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "LUNG.csv",",")
+                lung_with_predict["Gender"]= sexlist[i]
+                lung_with_predict["Race"]= racelist[j]
+                lung_with_predict["Cancer"] = 'Lung'
+                lung_with_predict.to_csv("../Data/To_merge_cancer/Data " + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "LUNG.csv",",")
 
             if len(cancers[1]) == len(years):
                 larynx_with_predict = pd.DataFrame({"Year": years, "Larynx": cancers[1]})
                 larynx_with_predict[larynx_with_predict<0]=0
                 larynx_with_predict["State"] = statelist[k]
-                larynx_with_predict.to_csv("../Data/Data " + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "larynx.csv",",")
+                larynx_with_predict["Gender"]= sexlist[i]
+                larynx_with_predict["Race"]= racelist[j]
+                larynx_with_predict["Cancer"] = 'Larynx'
+                larynx_with_predict.to_csv("../Data/To_merge_cancer/Data " + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "larynx.csv",",")
 
             if len(cancers[2]) == len(years):
                 nasal_with_predict = pd.DataFrame({"Year": years, "Nasal": cancers[2]})
                 nasal_with_predict[nasal_with_predict<0]=0
                 nasal_with_predict["State"] = statelist[k]
-                nasal_with_predict.to_csv("../Data/Data " + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "Nasal.csv",",")
+                nasal_with_predict["Gender"]= sexlist[i]
+                nasal_with_predict["Race"]= racelist[j]
+                nasal_with_predict["Cancer"] = 'Nasal'
+                nasal_with_predict.to_csv("../Data/To_merge_cancer/Data " + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "Nasal.csv",",")
 
             if len(cancers[3]) == len(years):
                 trachea_with_predict = pd.DataFrame({"Year": years, "Trachea": cancers[3]})
                 trachea_with_predict[trachea_with_predict<0]=0
                 trachea_with_predict["State"] = statelist[k]
-                trachea_with_predict.to_csv("../Data/Data " + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "Trach.csv",",")    
+                trachea_with_predict["Gender"]= sexlist[i]
+                trachea_with_predict["Race"]= racelist[j]
+                trachea_with_predict["Cancer"] = 'Trachea'
+                trachea_with_predict.to_csv("../Data/To_merge_cancer/Data " + str(statelist[k]) + str(racelist[j]) + str(sexlist[i]) + "Trach.csv",",")    
 
            
 
