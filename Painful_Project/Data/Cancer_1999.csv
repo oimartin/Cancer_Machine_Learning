@@ -1,0 +1,364 @@
+﻿States,States Code,Year,Year Code,Sex,Sex Code,Race,Race Code,Cancer Sites,Cancer Sites Code,Count,Population,Crude Rate
+Alabama,1,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,183,623475,29.4
+Alabama,1,1999,1999,Female,F,White,2106-3,Larynx,22020,34,1640665,2.1
+Alabama,1,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,1005,1640665,61.3
+Alabama,1,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,39,539198,7.2
+Alabama,1,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,407,539198,75.5
+Alabama,1,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,20,1570643,1.3
+Alabama,1,1999,1999,Male,M,White,2106-3,Larynx,22020,138,1570643,8.8
+Alabama,1,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,1733,1570643,110.3
+Alaska,2,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,108,220036,49.1
+Alaska,2,1999,1999,Male,M,American Indian or Alaska Native,1002-5,Lung and Bronchus,22030,25,53119,47.1
+Alaska,2,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,115,242016,47.5
+Arizona,4,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,19,84913,22.4
+Arizona,4,1999,1999,Female,F,White,2106-3,Larynx,22020,39,2235195,1.7
+Arizona,4,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,1253,2235195,56.1
+Arizona,4,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,51,92706,55
+Arizona,4,1999,1999,Male,M,White,2106-3,Larynx,22020,129,2225387,5.8
+Arizona,4,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,1672,2225387,75.1
+California,6,1999,1999,Female,F,American Indian or Alaska Native,1002-5,Lung and Bronchus,22030,28,225050,12.4
+California,6,1999,1999,Female,F,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,432,2097682,20.6
+California,6,1999,1999,Female,F,Black or African American,2054-5,Larynx,22020,22,1274187,1.7
+California,6,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,560,1274187,43.9
+California,6,1999,1999,Female,F,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,66,13203242,0.5
+California,6,1999,1999,Female,F,White,2106-3,Larynx,22020,166,13203242,1.3
+California,6,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,7117,13203242,53.9
+California,6,1999,1999,Male,M,American Indian or Alaska Native,1002-5,Lung and Bronchus,22030,16,227979,7
+California,6,1999,1999,Male,M,Asian or Pacific Islander,A-PI,Larynx,22020,41,1953590,2.1
+California,6,1999,1999,Male,M,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,746,1953590,38.2
+California,6,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,94,1228282,7.7
+California,6,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,755,1228282,61.5
+California,6,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,83,13289192,0.6
+California,6,1999,1999,Male,M,White,2106-3,Larynx,22020,648,13289192,4.9
+California,6,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,7811,13289192,58.8
+California,6,1999,1999,Male,M,White,2106-3,"Trachea, Mediastinum and Other Respiratory Organs",22060,35,13289192,0.3
+Colorado,8,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,25,88362,28.3
+Colorado,8,1999,1999,Female,F,White,2106-3,Larynx,22020,23,1930473,1.2
+Colorado,8,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,752,1930473,39
+Colorado,8,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,28,94708,29.6
+Colorado,8,1999,1999,Male,M,White,2106-3,Larynx,22020,85,1952428,4.4
+Colorado,8,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,935,1952428,47.9
+Connecticut,9,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,72,179119,40.2
+Connecticut,9,1999,1999,Female,F,White,2106-3,Larynx,22020,45,1517316,3
+Connecticut,9,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,1068,1517316,70.4
+Connecticut,9,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,87,162682,53.5
+Connecticut,9,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,19,1427459,1.3
+Connecticut,9,1999,1999,Male,M,White,2106-3,Larynx,22020,124,1427459,8.7
+Connecticut,9,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,1253,1427459,87.8
+Delaware,10,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,37,80684,45.9
+Delaware,10,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,240,307558,78
+Delaware,10,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,53,72959,72.6
+Delaware,10,1999,1999,Male,M,White,2106-3,Larynx,22020,30,293655,10.2
+Delaware,10,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,316,293655,107.6
+District of Columbia,11,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,128,193200,66.3
+District of Columbia,11,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,38,98382,38.6
+District of Columbia,11,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,25,160821,15.5
+District of Columbia,11,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,195,160821,121.3
+District of Columbia,11,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,49,98977,49.5
+Florida,12,1999,1999,Female,F,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,19,160104,11.9
+Florida,12,1999,1999,Female,F,Black or African American,2054-5,Larynx,22020,17,1255363,1.4
+Florida,12,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,341,1255363,27.2
+Florida,12,1999,1999,Female,F,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,61,6629027,0.9
+Florida,12,1999,1999,Female,F,White,2106-3,Larynx,22020,213,6629027,3.2
+Florida,12,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,6354,6629027,95.9
+Florida,12,1999,1999,Female,F,Other Races and Unknown combined,2131-1,Lung and Bronchus,22030,19,Not Applicable,Not Applicable
+Florida,12,1999,1999,Male,M,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,29,140598,20.6
+Florida,12,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,85,1163720,7.3
+Florida,12,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,729,1163720,62.6
+Florida,12,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,87,6349696,1.4
+Florida,12,1999,1999,Male,M,White,2106-3,Larynx,22020,799,6349696,12.6
+Florida,12,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,8144,6349696,128.3
+Florida,12,1999,1999,Male,M,White,2106-3,"Trachea, Mediastinum and Other Respiratory Organs",22060,39,6349696,0.6
+Florida,12,1999,1999,Male,M,Other Races and Unknown combined,2131-1,Lung and Bronchus,22030,28,Not Applicable,Not Applicable
+Georgia,13,1999,1999,Female,F,Black or African American,2054-5,Larynx,22020,24,1239075,1.9
+Georgia,13,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,330,1239075,26.6
+Georgia,13,1999,1999,Female,F,White,2106-3,Larynx,22020,56,2756311,2
+Georgia,13,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,1567,2756311,56.9
+Georgia,13,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,78,1104549,7.1
+Georgia,13,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,634,1104549,57.4
+Georgia,13,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,25,2747297,0.9
+Georgia,13,1999,1999,Male,M,White,2106-3,Larynx,22020,233,2747297,8.5
+Georgia,13,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,2380,2747297,86.6
+Hawaii,15,1999,1999,Female,F,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,179,447529,40
+Hawaii,15,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,88,139252,63.2
+Hawaii,15,1999,1999,Male,M,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,290,431560,67.2
+Hawaii,15,1999,1999,Male,M,White,2106-3,Larynx,22020,19,156121,12.2
+Hawaii,15,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,123,156121,78.8
+Idaho,16,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,261,616853,42.3
+Idaho,16,1999,1999,Male,M,White,2106-3,Larynx,22020,40,619156,6.5
+Idaho,16,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,362,619156,58.5
+Illinois,17,1999,1999,Female,F,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,32,227415,14.1
+Illinois,17,1999,1999,Female,F,Black or African American,2054-5,Larynx,22020,19,1020831,1.9
+Illinois,17,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,523,1020831,51.2
+Illinois,17,1999,1999,Female,F,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,32,5045484,0.6
+Illinois,17,1999,1999,Female,F,White,2106-3,Larynx,22020,77,5045484,1.5
+Illinois,17,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,3230,5045484,64
+Illinois,17,1999,1999,Male,M,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,51,216994,23.5
+Illinois,17,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,92,902429,10.2
+Illinois,17,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,722,902429,80
+Illinois,17,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,45,4906281,0.9
+Illinois,17,1999,1999,Male,M,White,2106-3,Larynx,22020,381,4906281,7.8
+Illinois,17,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,4195,4906281,85.5
+Illinois,17,1999,1999,Male,M,White,2106-3,"Trachea, Mediastinum and Other Respiratory Organs",22060,16,4906281,0.3
+Indiana,18,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,125,273749,45.7
+Indiana,18,1999,1999,Female,F,White,2106-3,Larynx,22020,56,2768991,2
+Indiana,18,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,1799,2768991,65
+Indiana,18,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,16,251422,6.4
+Indiana,18,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,185,251422,73.6
+Indiana,18,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,20,2670936,0.7
+Indiana,18,1999,1999,Male,M,White,2106-3,Larynx,22020,201,2670936,7.5
+Indiana,18,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,2550,2670936,95.5
+Iowa,19,1999,1999,Female,F,White,2106-3,Larynx,22020,31,1433552,2.2
+Iowa,19,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,881,1433552,61.5
+Iowa,19,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,20,33795,59.2
+Iowa,19,1999,1999,Male,M,White,2106-3,Larynx,22020,116,1372916,8.4
+Iowa,19,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,1285,1372916,93.6
+Kansas,20,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,30,82123,36.5
+Kansas,20,1999,1999,Female,F,White,2106-3,Larynx,22020,17,1234248,1.4
+Kansas,20,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,722,1234248,58.5
+Kansas,20,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,57,82831,68.8
+Kansas,20,1999,1999,Male,M,White,2106-3,Larynx,22020,78,1200915,6.5
+Kansas,20,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,979,1200915,81.5
+Kentucky,21,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,108,156229,69.1
+Kentucky,21,1999,1999,Female,F,White,2106-3,Larynx,22020,55,1880797,2.9
+Kentucky,21,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,1510,1880797,80.3
+Kentucky,21,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,107,147415,72.6
+Kentucky,21,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,16,1796038,0.9
+Kentucky,21,1999,1999,Male,M,White,2106-3,Larynx,22020,168,1796038,9.4
+Kentucky,21,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,2314,1796038,128.8
+Louisiana,22,1999,1999,Female,F,Black or African American,2054-5,Larynx,22020,18,773609,2.3
+Louisiana,22,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,304,773609,39.3
+Louisiana,22,1999,1999,Female,F,White,2106-3,Larynx,22020,42,1487157,2.8
+Louisiana,22,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,1005,1487157,67.6
+Louisiana,22,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,68,687824,9.9
+Louisiana,22,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,625,687824,90.9
+Louisiana,22,1999,1999,Male,M,White,2106-3,Larynx,22020,135,1428404,9.5
+Louisiana,22,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,1538,1428404,107.7
+Maine,23,1999,1999,Female,F,White,2106-3,Larynx,22020,18,638096,2.8
+Maine,23,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,463,638096,72.6
+Maine,23,1999,1999,Male,M,White,2106-3,Larynx,22020,43,603880,7.1
+Maine,23,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,636,603880,105.3
+Maryland,24,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,328,800328,41
+Maryland,24,1999,1999,Female,F,White,2106-3,Larynx,22020,42,1792223,2.3
+Maryland,24,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,1314,1792223,73.3
+Maryland,24,1999,1999,Male,M,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,19,105785,18
+Maryland,24,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,58,703204,8.2
+Maryland,24,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,469,703204,66.7
+Maryland,24,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,23,1719420,1.3
+Maryland,24,1999,1999,Male,M,White,2106-3,Larynx,22020,137,1719420,8
+Maryland,24,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,1532,1719420,89.1
+Massachusetts,25,1999,1999,Female,F,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,24,127128,18.9
+Massachusetts,25,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,69,216145,31.9
+Massachusetts,25,1999,1999,Female,F,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,18,2921658,0.6
+Massachusetts,25,1999,1999,Female,F,White,2106-3,Larynx,22020,58,2921658,2
+Massachusetts,25,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,2171,2921658,74.3
+Massachusetts,25,1999,1999,Female,F,Other Races and Unknown combined,2131-1,Lung and Bronchus,22030,16,Not Applicable,Not Applicable
+Massachusetts,25,1999,1999,Male,M,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,23,120863,19
+Massachusetts,25,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,17,200746,8.5
+Massachusetts,25,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,90,200746,44.8
+Massachusetts,25,1999,1999,Male,M,White,2106-3,Larynx,22020,230,2711096,8.5
+Massachusetts,25,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,2389,2711096,88.1
+Massachusetts,25,1999,1999,Male,M,Other Races and Unknown combined,2131-1,Lung and Bronchus,22030,22,Not Applicable,Not Applicable
+Michigan,26,1999,1999,Female,F,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,18,92942,19.4
+Michigan,26,1999,1999,Female,F,Black or African American,2054-5,Larynx,22020,36,766679,4.7
+Michigan,26,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,419,766679,54.7
+Michigan,26,1999,1999,Female,F,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,22,4152047,0.5
+Michigan,26,1999,1999,Female,F,White,2106-3,Larynx,22020,103,4152047,2.5
+Michigan,26,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,2755,4152047,66.4
+Michigan,26,1999,1999,Male,M,American Indian or Alaska Native,1002-5,Lung and Bronchus,22030,16,35411,45.2
+Michigan,26,1999,1999,Male,M,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,17,90681,18.7
+Michigan,26,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,67,688403,9.7
+Michigan,26,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,604,688403,87.7
+Michigan,26,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,36,4034851,0.9
+Michigan,26,1999,1999,Male,M,White,2106-3,Larynx,22020,293,4034851,7.3
+Michigan,26,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,3439,4034851,85.2
+Minnesota,27,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,30,88181,34
+Minnesota,27,1999,1999,Female,F,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,17,2269961,0.7
+Minnesota,27,1999,1999,Female,F,White,2106-3,Larynx,22020,29,2269961,1.3
+Minnesota,27,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,1100,2269961,48.5
+Minnesota,27,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,41,94244,43.5
+Minnesota,27,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,22,2214981,1
+Minnesota,27,1999,1999,Male,M,White,2106-3,Larynx,22020,132,2214981,6
+Minnesota,27,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,1426,2214981,64.4
+Missouri,29,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,171,341114,50.1
+Missouri,29,1999,1999,Female,F,White,2106-3,Larynx,22020,51,2470291,2.1
+Missouri,29,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,1797,2470291,72.7
+Missouri,29,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,27,300905,9
+Missouri,29,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,270,300905,89.7
+Missouri,29,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,26,2354682,1.1
+Missouri,29,1999,1999,Male,M,White,2106-3,Larynx,22020,204,2354682,8.7
+Missouri,29,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,2476,2354682,105.2
+Montana,30,1999,1999,Female,F,American Indian or Alaska Native,1002-5,Lung and Bronchus,22030,18,29417,61.2
+Montana,30,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,245,417059,58.7
+Montana,30,1999,1999,Male,M,American Indian or Alaska Native,1002-5,Lung and Bronchus,22030,19,29187,65.1
+Montana,30,1999,1999,Male,M,White,2106-3,Larynx,22020,26,413721,6.3
+Montana,30,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,316,413721,76.4
+Nebraska,31,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,448,809461,55.3
+Nebraska,31,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,26,35543,73.2
+Nebraska,31,1999,1999,Male,M,White,2106-3,Larynx,22020,52,785277,6.6
+Nebraska,31,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,595,785277,75.8
+Nevada,32,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,32,70681,45.3
+Nevada,32,1999,1999,Female,F,White,2106-3,Larynx,22020,16,808081,2
+Nevada,32,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,607,808081,75.1
+Nevada,32,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,36,73172,49.2
+Nevada,32,1999,1999,Male,M,White,2106-3,Larynx,22020,55,849671,6.5
+Nevada,32,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,747,849671,87.9
+New Hampshire,33,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,380,606762,62.6
+New Hampshire,33,1999,1999,Male,M,White,2106-3,Larynx,22020,46,585238,7.9
+New Hampshire,33,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,451,585238,77.1
+New Jersey,34,1999,1999,Female,F,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,30,250229,12
+New Jersey,34,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,274,649064,42.2
+New Jersey,34,1999,1999,Female,F,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,28,3391812,0.8
+New Jersey,34,1999,1999,Female,F,White,2106-3,Larynx,22020,63,3391812,1.9
+New Jersey,34,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,2466,3391812,72.7
+New Jersey,34,1999,1999,Male,M,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,44,242030,18.2
+New Jersey,34,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,47,582178,8.1
+New Jersey,34,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,388,582178,66.6
+New Jersey,34,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,28,3217379,0.9
+New Jersey,34,1999,1999,Male,M,White,2106-3,Larynx,22020,237,3217379,7.4
+New Jersey,34,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,2755,3217379,85.6
+New Mexico,35,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,336,793585,42.3
+New Mexico,35,1999,1999,Male,M,White,2106-3,Larynx,22020,49,769836,6.4
+New Mexico,35,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,444,769836,57.7
+New York,36,1999,1999,Female,F,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,92,565797,16.3
+New York,36,1999,1999,Female,F,Black or African American,2054-5,Larynx,22020,34,1835692,1.9
+New York,36,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,604,1835692,32.9
+New York,36,1999,1999,Female,F,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,46,7318698,0.6
+New York,36,1999,1999,Female,F,White,2106-3,Larynx,22020,147,7318698,2
+New York,36,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,5149,7318698,70.4
+New York,36,1999,1999,Male,M,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,144,556675,25.9
+New York,36,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,103,1575076,6.5
+New York,36,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,812,1575076,51.6
+New York,36,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,60,6917065,0.9
+New York,36,1999,1999,Male,M,White,2106-3,Larynx,22020,586,6917065,8.5
+New York,36,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,5835,6917065,84.4
+New York,36,1999,1999,Male,M,White,2106-3,"Trachea, Mediastinum and Other Respiratory Organs",22060,22,6917065,0.3
+North Carolina,37,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,284,931896,30.5
+North Carolina,37,1999,1999,Female,F,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,17,3018281,0.6
+North Carolina,37,1999,1999,Female,F,White,2106-3,Larynx,22020,60,3018281,2
+North Carolina,37,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,1869,3018281,61.9
+North Carolina,37,1999,1999,Male,M,American Indian or Alaska Native,1002-5,Lung and Bronchus,22030,24,50246,47.8
+North Carolina,37,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,76,826729,9.2
+North Carolina,37,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,555,826729,67.1
+North Carolina,37,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,20,2952586,0.7
+North Carolina,37,1999,1999,Male,M,White,2106-3,Larynx,22020,244,2952586,8.3
+North Carolina,37,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,2748,2952586,93.1
+North Dakota,38,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,130,302966,42.9
+North Dakota,38,1999,1999,Male,M,White,2106-3,Larynx,22020,16,302033,5.3
+North Dakota,38,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,225,302033,74.5
+Ohio,39,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,374,709739,52.7
+Ohio,39,1999,1999,Female,F,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,33,5037428,0.7
+Ohio,39,1999,1999,Female,F,White,2106-3,Larynx,22020,82,5037428,1.6
+Ohio,39,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,3442,5037428,68.3
+Ohio,39,1999,1999,Female,F,Other Races and Unknown combined,2131-1,Lung and Bronchus,22030,24,Not Applicable,Not Applicable
+Ohio,39,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,54,638003,8.5
+Ohio,39,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,566,638003,88.7
+Ohio,39,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,44,4779030,0.9
+Ohio,39,1999,1999,Male,M,White,2106-3,Larynx,22020,391,4779030,8.2
+Ohio,39,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,4711,4779030,98.6
+Ohio,39,1999,1999,Male,M,Other Races and Unknown combined,2131-1,Lung and Bronchus,22030,27,Not Applicable,Not Applicable
+Oklahoma,40,1999,1999,Female,F,American Indian or Alaska Native,1002-5,Lung and Bronchus,22030,80,156762,51
+Oklahoma,40,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,46,140624,32.7
+Oklahoma,40,1999,1999,Female,F,White,2106-3,Larynx,22020,36,1424430,2.5
+Oklahoma,40,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,1023,1424430,71.8
+Oklahoma,40,1999,1999,Male,M,American Indian or Alaska Native,1002-5,Lung and Bronchus,22030,84,151146,55.6
+Oklahoma,40,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,77,136433,56.4
+Oklahoma,40,1999,1999,Male,M,White,2106-3,Larynx,22020,110,1375751,8
+Oklahoma,40,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,1536,1375751,111.6
+Oregon,41,1999,1999,Female,F,White,2106-3,Larynx,22020,28,1591411,1.8
+Oregon,41,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,1160,1591411,72.9
+Oregon,41,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,26,35120,74
+Oregon,41,1999,1999,Male,M,White,2106-3,Larynx,22020,89,1562845,5.7
+Oregon,41,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,1300,1562845,83.2
+Pennsylvania,42,1999,1999,Female,F,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,17,115297,14.7
+Pennsylvania,42,1999,1999,Female,F,Black or African American,2054-5,Larynx,22020,20,676781,3
+Pennsylvania,42,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,378,676781,55.9
+Pennsylvania,42,1999,1999,Female,F,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,47,5544312,0.8
+Pennsylvania,42,1999,1999,Female,F,White,2106-3,Larynx,22020,104,5544312,1.9
+Pennsylvania,42,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,3805,5544312,68.6
+Pennsylvania,42,1999,1999,Female,F,Other Races and Unknown combined,2131-1,Lung and Bronchus,22030,30,Not Applicable,Not Applicable
+Pennsylvania,42,1999,1999,Male,M,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,22,112830,19.5
+Pennsylvania,42,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,55,603144,9.1
+Pennsylvania,42,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,574,603144,95.2
+Pennsylvania,42,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,50,5190271,1
+Pennsylvania,42,1999,1999,Male,M,White,2106-3,Larynx,22020,472,5190271,9.1
+Pennsylvania,42,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,5115,5190271,98.5
+Pennsylvania,42,1999,1999,Male,M,White,2106-3,"Trachea, Mediastinum and Other Respiratory Organs",22060,16,5190271,0.3
+Pennsylvania,42,1999,1999,Male,M,Other Races and Unknown combined,2131-1,Lung and Bronchus,22030,57,Not Applicable,Not Applicable
+Rhode Island,44,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,409,492396,83.1
+Rhode Island,44,1999,1999,Male,M,White,2106-3,Larynx,22020,45,452991,9.9
+Rhode Island,44,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,483,452991,106.6
+South Carolina,45,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,180,634128,28.4
+South Carolina,45,1999,1999,Female,F,White,2106-3,Larynx,22020,37,1384465,2.7
+South Carolina,45,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,893,1384465,64.5
+South Carolina,45,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,50,558524,9
+South Carolina,45,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,416,558524,74.5
+South Carolina,45,1999,1999,Male,M,White,2106-3,Larynx,22020,115,1345376,8.5
+South Carolina,45,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,1502,1345376,111.6
+Tennessee,47,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,179,498124,35.9
+Tennessee,47,1999,1999,Female,F,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,17,2362012,0.7
+Tennessee,47,1999,1999,Female,F,White,2106-3,Larynx,22020,46,2362012,1.9
+Tennessee,47,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,1337,2362012,56.6
+Tennessee,47,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,36,441667,8.2
+Tennessee,47,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,278,441667,62.9
+Tennessee,47,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,17,2263315,0.8
+Tennessee,47,1999,1999,Male,M,White,2106-3,Larynx,22020,202,2263315,8.9
+Tennessee,47,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,2150,2263315,95
+Texas,48,1999,1999,Female,F,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,39,303607,12.8
+Texas,48,1999,1999,Female,F,Black or African American,2054-5,Larynx,22020,21,1273788,1.6
+Texas,48,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,456,1273788,35.8
+Texas,48,1999,1999,Female,F,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,50,8716280,0.6
+Texas,48,1999,1999,Female,F,White,2106-3,Larynx,22020,146,8716280,1.7
+Texas,48,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,4391,8716280,50.4
+Texas,48,1999,1999,Male,M,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,67,299344,22.4
+Texas,48,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,104,1187505,8.8
+Texas,48,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,897,1187505,75.5
+Texas,48,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,66,8642333,0.8
+Texas,48,1999,1999,Male,M,White,2106-3,Larynx,22020,575,8642333,6.7
+Texas,48,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,6100,8642333,70.6
+Texas,48,1999,1999,Male,M,White,2106-3,"Trachea, Mediastinum and Other Respiratory Organs",22060,27,8642333,0.3
+Utah,49,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,198,1045601,18.9
+Utah,49,1999,1999,Male,M,White,2106-3,Larynx,22020,26,1046887,2.5
+Utah,49,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,308,1046887,29.4
+Vermont,50,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,178,302824,58.8
+Vermont,50,1999,1999,Male,M,White,2106-3,Larynx,22020,16,290533,5.5
+Vermont,50,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,259,290533,89.1
+Virginia,51,1999,1999,Female,F,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,16,142062,11.3
+Virginia,51,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,275,742318,37
+Virginia,51,1999,1999,Female,F,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,16,2674592,0.6
+Virginia,51,1999,1999,Female,F,White,2106-3,Larynx,22020,51,2674592,1.9
+Virginia,51,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,1422,2674592,53.2
+Virginia,51,1999,1999,Male,M,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,30,131670,22.8
+Virginia,51,1999,1999,Male,M,Black or African American,2054-5,Larynx,22020,66,680199,9.7
+Virginia,51,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,447,680199,65.7
+Virginia,51,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,19,2607592,0.7
+Virginia,51,1999,1999,Male,M,White,2106-3,Larynx,22020,192,2607592,7.4
+Virginia,51,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,1910,2607592,73.2
+Washington,53,1999,1999,Female,F,American Indian or Alaska Native,1002-5,Lung and Bronchus,22030,18,55415,32.5
+Washington,53,1999,1999,Female,F,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,35,196596,17.8
+Washington,53,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,30,104049,28.8
+Washington,53,1999,1999,Female,F,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,21,2578841,0.8
+Washington,53,1999,1999,Female,F,White,2106-3,Larynx,22020,42,2578841,1.6
+Washington,53,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,1699,2578841,65.9
+Washington,53,1999,1999,Male,M,American Indian or Alaska Native,1002-5,Lung and Bronchus,22030,18,54619,33
+Washington,53,1999,1999,Male,M,Asian or Pacific Islander,A-PI,Lung and Bronchus,22030,56,175008,32
+Washington,53,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,66,118270,55.8
+Washington,53,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,19,2559766,0.7
+Washington,53,1999,1999,Male,M,White,2106-3,Larynx,22020,150,2559766,5.9
+Washington,53,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,2018,2559766,78.8
+West Virginia,54,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,27,29770,90.7
+West Virginia,54,1999,1999,Female,F,White,2106-3,Larynx,22020,27,896008,3
+West Virginia,54,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,823,896008,91.9
+West Virginia,54,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,21,30005,70
+West Virginia,54,1999,1999,Male,M,White,2106-3,Larynx,22020,100,844088,11.8
+West Virginia,54,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,1162,844088,137.7
+Wisconsin,55,1999,1999,Female,F,Black or African American,2054-5,Lung and Bronchus,22030,53,163158,32.5
+Wisconsin,55,1999,1999,Female,F,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,22,2466785,0.9
+Wisconsin,55,1999,1999,Female,F,White,2106-3,Larynx,22020,54,2466785,2.2
+Wisconsin,55,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,1417,2466785,57.4
+Wisconsin,55,1999,1999,Male,M,Black or African American,2054-5,Lung and Bronchus,22030,87,152072,57.2
+Wisconsin,55,1999,1999,Male,M,White,2106-3,"Nose, Nasal Cavity and Middle Ear",22010,19,2407804,0.8
+Wisconsin,55,1999,1999,Male,M,White,2106-3,Larynx,22020,159,2407804,6.6
+Wisconsin,55,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,2010,2407804,83.5
+Wyoming,56,1999,1999,Female,F,White,2106-3,Lung and Bronchus,22030,118,235025,50.2
+Wyoming,56,1999,1999,Male,M,White,2106-3,Lung and Bronchus,22030,157,237714,66
