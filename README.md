@@ -1,4 +1,4 @@
-![no.1](Screenshots/main_img)
+![no.1](Screenshots/main_img.png)
 ![no.2](Screenshots/process_explanation_final.png)
 ![no.3](Screenshots/team_avatars_final.png)
 ![no.4](Screenshots/visualization_pollution_across_US_states_by_year.png)
