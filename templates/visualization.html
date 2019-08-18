@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Visualizations</title>
+<!-- Favicons -->
+<link href="{{ url_for('static',filename='img/favicon.jpg') }}" rel="icon">
+        
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800|Montserrat:300,400,700" rel="stylesheet">
+
+<!-- Our CSS -->
+<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='style.css') }}"></link>
+
+<!-- Bootstrap CSS File -->
+<link href="{{ url_for('static',filename='lib/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
+
+
+<!---d3 dependencies--->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+
+<!-- API Key -->
+<script type="text/javascript" src="{{ url_for('static',filename='app.js') }}"></script>      
+</head>
+
+<body id="body">  
+<!--Header Bar & Nav Icons-->
+<header id="header">
+   <div class="container">
+       <div id = 'logo' class ='pull-left'>
+           <h1><a href="#body" class="scrollto"></a>Final Project</a></h1>
+       </div>
+       <nav id="nav-menu-container">
+               <ul class="nav-menu">
+                 <li class="menu-active"><a href="/">Home</a></li>
+                 <li><a href="/#about">About Project</a></li>
+                 <li><a href="/#process">Process</a></li>
+                 <li><a href="/#visualization">Visualizations</a></li>
+                 <li><a href="/machinelearn">Machine Learning</a></li>
+                 <li><a href="/#team">Team</a> </li>
+                   </ul>
+           </div>           
+               </ul>
+       </nav><!-- #nav-menu-container -->
+   </div>
+</header><!-- #header -->
+
+<!--==========================
+    Analysis Section
+    ============================-->
+    <section id="analysis">
+        <div class="container" style = "padding-top: 50px;">
+          <div class="section-header">
+            <h2>Visualizations</h2>
+          </div>
+ <!--==========================
+    Tableau Embed Code   
+ ============================-->
+
+
+ 
+          <div class='tableauPlaceholder' id='viz1557362058168' style='position: relative'><noscript>
+              <a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;PollutionbyStatebyYear&#47;Sheet12&#47;1_rss.png' style='border: none' /></a>
+            </noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+              <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PollutionbyStatebyYear&#47;Sheet12' />
+              <param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;PollutionbyStatebyYear&#47;Sheet12&#47;1.png' /> 
+              <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                
+              <script type='text/javascript'> var divElement = document.getElementById('viz1557362058168'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+              var scriptElement = document.createElement('script');  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';  vizElement.parentNode.insertBefore(scriptElement, vizElement);  </script>
+            
+            <section id="process">
+                <div class="container" style = "padding-top: 100px;">
+                  <div class="section-header" >
+                    <h2>Respiratory Cancer Liklihood By State</h2>
+                  </div>
+          
+                  <div class="row">
+  
+      <div class='tableauPlaceholder' id='viz1557366222781' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;W2&#47;W2ZDG7KWR&#47;1_rss.png' style='border: none' /></a>
+      </noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;W2ZDG7KWR' /> 
+        <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;W2&#47;W2ZDG7KWR&#47;1.png' /> <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>       
+        <script type='text/javascript'> var divElement = document.getElementById('viz1557366222781');  var vizElement = divElement.getElementsByTagName('object')[0];  vizElement.style.width='716px';vizElement.style.height='991px';              
+          var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';  vizElement.parentNode.insertBefore(scriptElement, vizElement);  </script>
+    
+
+    <section id="process">
+        <div class="container" style = "padding-top: 100px; padding-bottom: 200px;">
+          <div class="section-header" >
+            <h2>Pollutant Levels and Cancer Liklihood</h2>
+          </div>
+  
+          <div class="row">
+
+        <div class='tableauPlaceholder' id='viz1557369765042' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;JS&#47;JSTYS2ZD2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;JSTYS2ZD2' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;JS&#47;JSTYS2ZD2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1557369765042');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+    </div>
+          </div> 
+  
+
+
+
+
+
+  <!---Template Main Javascript File-->
+
+  <script src="{{ url_for('static',filename='lib/main/main.js')}}"></script>
+  <link href="{{ url_for('static',filename='lib/ionicons/css/ionicons.min.css')}}" rel="stylesheet">
+  <script src="{{ url_for('static',filename='lib/sticky/sticky.js')}}"></script>    
+  <script src="{{ url_for('static',filename='lib/owlcarousel/owl.carousel.min.js')}}"></script>
+
+<script src="{{ url_for('static',filename='lib/superfish/hoverIntent.js')}}"></script>
+<script src="{{ url_for('static',filename='lib/superfish/superfish.min.js')}}"></script>
+<script src="{{ url_for('static',filename='lib/wow/wow.min.js')}}"></script>
+<script src="{{ url_for('static',filename='lib/owlcarousel/owl.carousel.min.js')}}"></script>
+<script src="{{ url_for('static',filename='lib//magnific-popup/magnific-popup.min.js')}}"></script>
+<script src="{{ url_for('static',filename='lib/sticky/sticky.js')}}"></script>
+<link href="{{ url_for('static',filename='lib/font-awesome/css/font-awesome.min.css')}}" rel="stylesheet">
+<link href="{{ url_for('static',filename='lib/animate/animate.min.css')}}" rel="stylesheet">
+<link href="{{ url_for('static',filename='lib/ionicons/css/ionicons.min.css')}}" rel="stylesheet">
+<link href="{{ url_for('static',filename='lib/owlcarousel/assets/owl.carousel.min.css')}}" rel="stylesheet">
+<link href="{{ url_for('static',filename='lib/magnific-popup/magnific-popup.css')}}" rel="stylesheet">
+<!--- <script src="{{ url_for('static',filename='lib/jquery/jquery-migrate.min.js')}}"></script>
+<script href="{{ url_for('static',filename='lib/jquery/jquery.min.js')}}"></script>-->
+<script src="{{ url_for('static',filename='lib/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
+<script src="{{ url_for('static',filename='lib/easing/easing.min.js')}}"></script>
+</html>
+

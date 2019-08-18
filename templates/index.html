@@ -2,20 +2,29 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Final Project</title>
+        <title >Final Project</title>
       
+        <!-- Favicons -->
+        <link href="{{ url_for('static',filename='img/favicon.jpg') }}" rel="icon">
+        
          <!-- Google Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800|Montserrat:300,400,700" rel="stylesheet">
 
         <!-- Our CSS -->
-        <!-- <link rel="stylesheet" type="text/css" href="static/css/style.css"> -->
+         <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='style.css') }}"></link>
         
         <!-- Bootstrap CSS File -->
-        <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-      
-      <!---Java--->
+        <link href="{{ url_for('static',filename='lib/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
+
+        
+      <!---d3 dependencies--->
       <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
-      
+
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+
+      <!-- API Key -->
+    <script type="text/javascript" src="{{ url_for('static',filename='app.js') }}"></script>      
       </head>
 
     <body id="body">  
@@ -30,8 +39,8 @@
                           <li class="menu-active"><a href="#body">Home</a></li>
                           <li><a href="#about">About Project</a></li>
                           <li><a href="#process">Process</a></li>
-                          <li><a href="machinelearn.html">Machine Learning</a></li>
-                          <li><a href="#analysis">Analysis</a></li>
+                          <li><a href="/visualization">Visualizations</a></li>
+                          <li><a href="/machinelearn">Machine Learning</a></li>
                           <li><a href="#team">Team</a> </li>
                             </ul>
                     </div>           
@@ -46,131 +55,187 @@
         <section id="intro">
 
         <div class="intro-content">
-        <h2>Cancer + <span>Polution</span><br>Analysis</h2>
+        <h2>Cancer + <span>Pollution</span><br>Analysis</h2>
         <div>
             <a href="#about" class="btn-get-started scrollto">About</a>
-            <a href="#analysis" class="btn-projects scrollto">Analysis</a>
+            <a href="/visualization" class="btn-projects scrollto">Visualizations</a>
         </div>
         </div>
 
         <div id="intro-carousel" class="owl-carousel" >
-            <div class="item" style="background-image: url('img/intro-carousel/1.jpg');"></div>
-            <div class="item" style="background-image: url('img/intro-carousel/3.jpg');"></div>
+            <div class="item" style="background-image: url('static/img/intro-carousel/1.jpg');"></div>
+            <div class="item" style="background-image: url('static/img/intro-carousel/2.jpg');"></div>
         
         </div>
         </section><!-- #intro -->
-<!-- API Key -->
-<script>
-console.log("Hello!!!!")
-</script>
-<script type="text/javascript" src="{{ url_for('static',filename='app.js') }}"></script>
-<div class="container">
- <div class="row">
-   <div class="col-md-12 jumbotron text-center">
-     <p>Select a Place, Gender, and Race</p>
-   </div>
- </div>
- <div class="row">
-   <div class="col-md-6">
-     <div class="well">
-        <div id="bar"></div>
-       <select id="selState" onchange = "displayResults()"></select>
-       <select id="selGender"></select>
-       <select id="selRace"></select>
-       <select id="selYear"></select>
-       <div id ="displayResults"></div>
-     </div>
-   </div>  
- </div>  
-</div>
 
-
-        
-        <!-- ==========================
+  <!--==========================
         About Our Project
         ============================-->
-        <section id="about" class="wow fadeInUp">
-                    <div class="col-lg-6 content">
-                      <h2>Comparing Pollution and Cancer Rates Across the US</h2>
-                      <h3>For this project, we found data pollution data from the EPA and cancer incidence data from the CDC.</h3>
-          
-                      <ul>
-                        <li><i class="ion-android-checkmark-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                        <li><i class="ion-android-checkmark-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                        <li><i class="ion-android-checkmark-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-                      </ul>
-          
-                    </div>
+        <section id="about" class="wow fadeInUp" style = "padding-top: 100px;">
+
+          <div class="content">
+                  <div class="container">
+                  
+            <h2>Comparing Pollution and Cancer Rates Across the US</h2>
+            <h3>This project uses data from the EPA and the CDC to analyze and find patterns between pollution levels and cancer incidences across the United States. </h3>
+
+            <ul>
+                <!--=====css = about .content ul=======-->
+              <li>To narrow our analysis, we focused specifically on Respiratory cancer sites including the larynx, lungs, trachea and nasal cavity. We selected gender, race, year, and location as our variables for deeper analysis. 
+                Throughout the course of our project, we created three machine learning models and a neural network to predict pollution levels and cancer incidence rates to 2025. We used D3 and Tableau to visualize our results. 
+              </li>
+            </ul>
+
+          </div>
+        </div>
+
+      </div>
+    </section><!-- #about -->
+    <br>
+    <br>
+    <br>
+ <!--==========================
+    Process Section
+    ============================-->
+    <section id="process">
+            <div class="container" style = "padding-top: 20px;">
+              <div class="section-header" >
+                <h2>Process</h2>
+              </div>
+      
+              <div class="row">
+      
+                <div class="col-lg-6">
+                  <div class="box wow fadeInLeft">
+                    <div class="icon"><i class="fa fa-bar-chart"></i></div>
+                    <h4 class="title"><a >1. Data Manipulation </a></h4>
+                    <p class="description">Using python and pandas, we imported our 42 CSV files collected from the EPA and CDC and manipulated the data into dataframes. We cleaned the data, grouped by state and concatenated three new csv files for Cancer, Pollution and that data combined.</p>
                   </div>
-          
                 </div>
-              </section><!-- #about -->
+      
+                <div class="col-lg-6">
+                  <div class="box wow fadeInRight">
+                    <div class="icon"><i class="fa fa-bar-chart"></i></div>
+                    <h4 class="title"><a >2. Linear Regression & AR Modeling</a></h4>
+                    <p class="description">Originally, we tried to match our data to a simple linear regression model, but found that it did not fit to the model and chose an auto regession model instead.</p>
+                  </div>
+                </div>  
+                
+                <div class="col-lg-6">
+                        <div class="box wow fadeInLeft">
+                          <div class="icon"><i class="fa fa-bar-chart"></i></div>
+                          <h4 class="title"><a >3. Neural Network </a></h4>
+                          <p class="description">We developed the a neural network using a combined set of cancer and pollution data.</p>
+                        </div>
+                      </div>
 
-     
-        
-        
-
-        <!--==========================
-        ANALYSIS Cancer Incidence Over Year Section
-        ============================-->
-        <section id="about" class="wow fadeInUp">
-            <div class="container">
+             <div class="col-lg-6">
+                        <div class="box wow fadeInLeft">
+                          <div class="icon"><i class="fa fa-bar-chart"></i></div>
+                          <h4 class="title"><a >4. Visualization </a></h4>
+                          <p class="description">Through trial and error, we landed on Tableau and D3 to visualize our results on our webpage. We created three Tableau graphs to show how both pollution and cancer rates grow over time and into the future. We modeled a chart through D3 that shows cancer rate incidence percentage based on location, year, gender and race.</p>
+                        </div>
+                      </div>
+                      <br>
+                      <br>
+                      <br>
             <div class="row">
-                <div class="col-lg-6 about-img">
-                <div id="graph1" alt="">
+          <div class="col-lg-4 col-md-12 offset-md-1 wow fadeInUp" style = "padding-top: 50px;">
+            <iframe width=900 height=500 src="https://nbviewer.jupyter.org/github/sorlowek/Final-Project-ML-Cancer/blob/master/Painful_Project/Jupyter%20Notebook/Linear_regression.ipynb"></iframe>
+          </div>
+            </div> 
+
+
+            <br>
+            <br>
+            <br>
+            <br>
+
+
+   <!--==========================
+      Our Team Section
+    ============================-->
+    <section id="team" class="wow fadeInUp" style = "padding-top: 150px;">
+      <div class="container">
+        <div class="section-header">
+          <h2>Our Team</h2>
+        </div>
+        <div class="row">
+          <div class="col-lg-3 col-md-6">
+            <div class="member">
+              <div class="pic"><img src="../static/img/team/maggie.jpg" alt=""></div>
+              <div class="details">
+                <h4>Maggie Brink</h4>
+                <div class="social">
+                  <a href="https://www.linkedin.com/in/maggie-brink-65540391/"><i class="fa fa-linkedin"></i></a>
                 </div>
-    
-                <div class="col-lg-6 content">
-                <h2>Lorem ipsum dolor sit amet, consectetur adipiscing</h2>
-                <h3>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h3>
-    
-                <ul>
-                    <li> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                    <li> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                    <li> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-                </ul>
-    
-                </div>
+              </div>
             </div>
-    
+          </div>
+
+          <div class="col-lg-3 col-md-6"style = "padding-bottom: 200px;"> 
+            <div class="member">
+              <div class="pic"><img src="../static/img/team/shira.jpg" alt=""></div>
+              <div class="details">
+                <h4>Shira Orlowek</h4>
+                <div class="social">
+                  <a href="https://www.linkedin.com/in/shiraorlowek"><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
             </div>
-        </section><!-- #about -->
+          </div>
 
- 
- <!-- The div that holds our map -->
- <div class="wrapper">
-     <div class = "left" >
-         <div id="Graph-id"></div>
-     </div> 
-     <div id = "right" >
-         <div id="titles" >Race, Income, Age: </div>
-
-        <!--==========================
-        Pollution Over Year Section
-        ============================-->
-        <section id="about" class="wow fadeInUp">
-                <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 about-img">
-                    <div id="graph2" alt="">
-                    </div>
-        
-                    <div class="col-lg-6 content">
-                    <h2>Lorem ipsum dolor sit amet, consectetur adipiscing</h2>
-                    <h3>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h3>
-        
-                    <ul>
-                        <li> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                        <li> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                        <li> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-                    </ul>
-        
-                    </div>
+          <div class="col-lg-3 col-md-6">
+            <div class="member">
+              <div class="pic"><img src="../static/img/team/Stephen.jpg" alt=""></div>
+              <div class="details">
+                <h4>Stephen Murphey </h4>
+                
+                <div class="social">
+                  <a href="https://www.linkedin.com/in/stephen-murphy-2179134"><i class="fa fa-linkedin"></i></a>
                 </div>
-        
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="member">
+              <div class="pic"><img src="../static/img/team/olivia.png" alt=""></div>
+              <div class="details">
+                <h4>Olivia Martin</h4>
+                <div class="social">
+                  <a href="https://www.linkedin.com/in/olivia-m-5a78b879"><i class="fa fa-linkedin"></i></a>
                 </div>
-            </section><!-- #about -->
-   
+              </div>
+            </div>
+          </div>
+        </div>
 
+      </div>
+    </section><!-- #team -->
 
+  <!---Template Main Javascript File-->
+
+  <script src="{{ url_for('static',filename='lib/main/main.js')}}"></script>
+  <link href="{{ url_for('static',filename='lib/ionicons/css/ionicons.min.css')}}" rel="stylesheet">
+  <script src="{{ url_for('static',filename='lib/sticky/sticky.js')}}"></script>    
+  <script src="{{ url_for('static',filename='lib/owlcarousel/owl.carousel.min.js')}}"></script>
+
+<script src="{{ url_for('static',filename='lib/superfish/hoverIntent.js')}}"></script>
+<script src="{{ url_for('static',filename='lib/superfish/superfish.min.js')}}"></script>
+<script src="{{ url_for('static',filename='lib/wow/wow.min.js')}}"></script>
+<script src="{{ url_for('static',filename='lib/owlcarousel/owl.carousel.min.js')}}"></script>
+<script src="{{ url_for('static',filename='lib//magnific-popup/magnific-popup.min.js')}}"></script>
+<script src="{{ url_for('static',filename='lib/sticky/sticky.js')}}"></script>
+<link href="{{ url_for('static',filename='lib/font-awesome/css/font-awesome.min.css')}}" rel="stylesheet">
+<link href="{{ url_for('static',filename='lib/animate/animate.min.css')}}" rel="stylesheet">
+<link href="{{ url_for('static',filename='lib/ionicons/css/ionicons.min.css')}}" rel="stylesheet">
+<link href="{{ url_for('static',filename='lib/owlcarousel/assets/owl.carousel.min.css')}}" rel="stylesheet">
+<link href="{{ url_for('static',filename='lib/magnific-popup/magnific-popup.css')}}" rel="stylesheet">
+<!--- <script src="{{ url_for('static',filename='lib/jquery/jquery-migrate.min.js')}}"></script>
+<script href="{{ url_for('static',filename='lib/jquery/jquery.min.js')}}"></script>-->
+<script src="{{ url_for('static',filename='lib/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
+<script src="{{ url_for('static',filename='lib/easing/easing.min.js')}}"></script>
 </html>
+
